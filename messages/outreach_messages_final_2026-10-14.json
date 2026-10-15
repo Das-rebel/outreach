@@ -1,0 +1,981 @@
+{
+ "plan_messages": [
+  {
+   "name": "Shiwani Gupta",
+   "company": "Ujjivan Small Finance Bank",
+   "linkedin": "",
+   "message": "Hi Shiwani \u2014 I had applied for a role at Ujjivan recently. My work has mostly been consumer growth at scale \u2014 Groww's credit book 8x to $36M, Axis Bank \u20b91500Cr portfolio. Resume attached. Would love to learn more about how the bank is approaching digital growth.",
+   "resume": "Subhajit_Das_Growth_Digital_Business.pdf",
+   "wave": "D1",
+   "status": "DRAFTED"
+  },
+  {
+   "name": "Pritesh Malode",
+   "company": "UBS",
+   "linkedin": "",
+   "message": "Hi Pritesh \u2014 I applied to UBS (Oct 6) and wanted to reach out to you directly. 11 years in fintech growth \u2014 Groww, Axis Bank, Niro. Resume attached. Happy to connect anytime, or share anything else useful for the role.",
+   "resume": "Subhajit_Das_Growth_Digital_Business.pdf",
+   "wave": "D1",
+   "status": "DRAFTED"
+  },
+  {
+   "name": "Tanya Arora",
+   "company": "MetaMorph",
+   "linkedin": "",
+   "message": "Hi Tanya \u2014 I applied for the Head of Growth \u2013 Marketplaces role you'd posted (Oct 12). 11 years in fintech growth \u2014 Groww, Axis Bank, Niro. Resume attached. Happy to share anything else the client needs.",
+   "resume": "Subhajit_Das_Growth_Digital_Business.pdf",
+   "wave": "D1",
+   "status": "DRAFTED"
+  },
+  {
+   "name": "Mohak Jhaveri",
+   "company": "Mastercard Data & Services",
+   "linkedin": "https://www.linkedin.com/in/mohak-jhaveri",
+   "message": "Hi Mohak \u2014 I had applied for the Pre-Sales GTM role at Mastercard (Sep 30). My background is fintech growth \u2014 scaled Groww's credit book 8x to $36M, ran a \u20b91500Cr portfolio at Axis Bank. Resume attached. Would love to learn more about the team from you sometime.",
+   "resume": "Subhajit_Das_AI_GTM_Growth_Systems.pdf",
+   "wave": "D1",
+   "status": "DRAFTED"
+  },
+  {
+   "name": "Kunal Chadha",
+   "company": "Deutsche Bank",
+   "linkedin": "https://www.linkedin.com/in/kunal-chadha-aa2b278",
+   "message": "Hi Kunal \u2014 I applied to Deutsche Bank (Oct 6). My lane is consumer growth and credit at scale \u2014 Groww 8x, Niro \u20b970Cr/mo disbursals. Resume attached. Would love to learn more about the team from you sometime.",
+   "resume": "Subhajit_Das_Growth_Digital_Business.pdf",
+   "wave": "D1",
+   "status": "DRAFTED"
+  },
+  {
+   "name": "Praveen Bhandari",
+   "company": "Deutsche Bank",
+   "linkedin": "https://www.linkedin.com/in/linkedpraveenbhandari",
+   "message": "Hi \u2014 I applied for the  role at Deutsche Bank recently. My background is 11 years in fintech growth \u2014 Groww $36M, Axis Bank \u20b91500Cr, Niro. Resume attached. Would love to learn more.",
+   "resume": "Subhajit_Das_Growth_Digital_Business.pdf",
+   "wave": "D2",
+   "status": "AUTO"
+  },
+  {
+   "name": "Dheeraj Mathur",
+   "company": "Kuhoo Finance",
+   "linkedin": "https://www.linkedin.com/in/dheeraj-mathur",
+   "message": "Hi \u2014 I applied for the  role at Kuhoo Finance recently. My background is 11 years in fintech growth \u2014 Groww $36M, Axis Bank \u20b91500Cr, Niro. Resume attached. Would love to learn more.",
+   "resume": "Subhajit_Das_Growth_Digital_Business.pdf",
+   "wave": "D2",
+   "status": "AUTO"
+  },
+  {
+   "name": "Gauri Vasudeva",
+   "company": "MoneyLion",
+   "linkedin": "https://www.linkedin.com/in/gaurivasudeva",
+   "message": "Hi \u2014 I applied for the  role at MoneyLion recently. My background is 11 years in fintech growth \u2014 Groww $36M, Axis Bank \u20b91500Cr, Niro. Resume attached. Would love to learn more.",
+   "resume": "Subhajit_Das_Growth_Digital_Business.pdf",
+   "wave": "D2",
+   "status": "AUTO"
+  },
+  {
+   "name": "Premanshu Singh",
+   "company": "super.money",
+   "linkedin": "",
+   "message": "Hi \u2014 I applied for the  role at super.money recently. My background is 11 years in fintech growth \u2014 Groww $36M, Axis Bank \u20b91500Cr, Niro. Resume attached. Would love to learn more.",
+   "resume": "Subhajit_Das_Growth_Marketing_MarTech.pdf",
+   "wave": "D2",
+   "status": "AUTO"
+  },
+  {
+   "name": "Showmik Choudhury",
+   "company": "IDFC FIRST Bank",
+   "linkedin": "",
+   "message": "Hi \u2014 I applied for the  role at IDFC FIRST Bank recently. My background is 11 years in fintech growth \u2014 Groww $36M, Axis Bank \u20b91500Cr, Niro. Resume attached. Would love to learn more.",
+   "resume": "Subhajit_Das_Growth_Digital_Business.pdf",
+   "wave": "D2",
+   "status": "AUTO"
+  },
+  {
+   "name": "Ashish Kumar",
+   "company": "ofbusiness",
+   "linkedin": "",
+   "message": "Hi \u2014 I applied for the  role at ofbusiness recently. My background is 11 years in fintech growth \u2014 Groww $36M, Axis Bank \u20b91500Cr, Niro. Resume attached. Would love to learn more.",
+   "resume": "Subhajit_Das_Growth_Digital_Business.pdf",
+   "wave": "D3",
+   "status": "AUTO"
+  },
+  {
+   "name": "Khushboo Baderiya",
+   "company": "myntra",
+   "linkedin": "",
+   "message": "Hi \u2014 I applied for the  role at myntra recently. My background is 11 years in fintech growth \u2014 Groww $36M, Axis Bank \u20b91500Cr, Niro. Resume attached. Would love to learn more.",
+   "resume": "Subhajit_Das_Growth_Digital_Business.pdf",
+   "wave": "D3",
+   "status": "AUTO"
+  },
+  {
+   "name": "Rajneesh Yadav",
+   "company": "Stashfin",
+   "linkedin": "",
+   "message": "Hi \u2014 I applied for the  role at Stashfin recently. My background is 11 years in fintech growth \u2014 Groww $36M, Axis Bank \u20b91500Cr, Niro. Resume attached. Would love to learn more.",
+   "resume": "Subhajit_Das_Growth_Digital_Business.pdf",
+   "wave": "D3",
+   "status": "AUTO"
+  },
+  {
+   "name": "Saloni Punj",
+   "company": "Stashfin",
+   "linkedin": "",
+   "message": "Hi \u2014 I applied for the  role at Stashfin recently. My background is 11 years in fintech growth \u2014 Groww $36M, Axis Bank \u20b91500Cr, Niro. Resume attached. Would love to learn more.",
+   "resume": "Subhajit_Das_Growth_Digital_Business.pdf",
+   "wave": "D3",
+   "status": "AUTO"
+  },
+  {
+   "name": "Priyanshi Sharma",
+   "company": "Hero FinCorp",
+   "linkedin": "",
+   "message": "Hi \u2014 I applied for the  role at Hero FinCorp recently. My background is 11 years in fintech growth \u2014 Groww $36M, Axis Bank \u20b91500Cr, Niro. Resume attached. Would love to learn more.",
+   "resume": "Subhajit_Das_Growth_Digital_Business.pdf",
+   "wave": "D3",
+   "status": "AUTO"
+  },
+  {
+   "name": "Somya Talwar",
+   "company": "Hero FinCorp",
+   "linkedin": "",
+   "message": "Hi \u2014 I applied for the  role at Hero FinCorp recently. My background is 11 years in fintech growth \u2014 Groww $36M, Axis Bank \u20b91500Cr, Niro. Resume attached. Would love to learn more.",
+   "resume": "Subhajit_Das_Growth_Digital_Business.pdf",
+   "wave": "D4",
+   "status": "AUTO"
+  },
+  {
+   "name": "Zeena Verma",
+   "company": "PhonePe",
+   "linkedin": "",
+   "message": "Hi \u2014 I applied for the  role at PhonePe recently. My background is 11 years in fintech growth \u2014 Groww $36M, Axis Bank \u20b91500Cr, Niro. Resume attached. Would love to learn more.",
+   "resume": "Subhajit_Das_Growth_Digital_Business.pdf",
+   "wave": "D4",
+   "status": "AUTO"
+  },
+  {
+   "name": "Akansha Yadav",
+   "company": "Razorpay",
+   "linkedin": "https://www.linkedin.com/in/akansha-yadav-40b4773b",
+   "message": "Hi \u2014 I applied for the  role at Razorpay recently. My background is 11 years in fintech growth \u2014 Groww $36M, Axis Bank \u20b91500Cr, Niro. Resume attached. Would love to learn more.",
+   "resume": "Subhajit_Das_Growth_Digital_Business.pdf",
+   "wave": "D4",
+   "status": "AUTO"
+  },
+  {
+   "name": "Rahul Choudhury",
+   "company": "HSBC",
+   "linkedin": "https://www.linkedin.com/in/rahul-choudhury-547056108",
+   "message": "Hi \u2014 I applied for the  role at HSBC recently. My background is 11 years in fintech growth \u2014 Groww $36M, Axis Bank \u20b91500Cr, Niro. Resume attached. Would love to learn more.",
+   "resume": "Subhajit_Das_Growth_Digital_Business.pdf",
+   "wave": "D4",
+   "status": "AUTO"
+  },
+  {
+   "name": "Abinash Kumar",
+   "company": "abcd aditya birla capital",
+   "linkedin": "",
+   "message": "Hi \u2014 I applied for the  role at abcd aditya birla capital recently. My background is 11 years in fintech growth \u2014 Groww $36M, Axis Bank \u20b91500Cr, Niro. Resume attached. Would love to learn more.",
+   "resume": "Subhajit_Das_Growth_Digital_Business.pdf",
+   "wave": "D4",
+   "status": "AUTO"
+  },
+  {
+   "name": "Utkarsh Apoorva",
+   "company": "ablecredit",
+   "linkedin": "",
+   "message": "Hi \u2014 I applied for the  role at ablecredit recently. My background is 11 years in fintech growth \u2014 Groww $36M, Axis Bank \u20b91500Cr, Niro. Resume attached. Would love to learn more.",
+   "resume": "Subhajit_Das_Growth_Digital_Business.pdf",
+   "wave": "D5",
+   "status": "AUTO"
+  },
+  {
+   "name": "Aravind Ashok",
+   "company": "CRED",
+   "linkedin": "https://www.linkedin.com/in/aravind-ashok-ece",
+   "message": "Hi \u2014 I applied for the  role at CRED recently. My background is 11 years in fintech growth \u2014 Groww $36M, Axis Bank \u20b91500Cr, Niro. Resume attached. Would love to learn more.",
+   "resume": "Subhajit_Das_Growth_Digital_Business.pdf",
+   "wave": "D5",
+   "status": "AUTO"
+  },
+  {
+   "name": "Miten Sampat",
+   "company": "CRED",
+   "linkedin": "https://www.linkedin.com/in/mitensampat",
+   "message": "Hi \u2014 I applied for the  role at CRED recently. My background is 11 years in fintech growth \u2014 Groww $36M, Axis Bank \u20b91500Cr, Niro. Resume attached. Would love to learn more.",
+   "resume": "Subhajit_Das_Growth_Digital_Business.pdf",
+   "wave": "D5",
+   "status": "AUTO"
+  },
+  {
+   "name": "Shikhar Dwivedi",
+   "company": "Razorpay",
+   "linkedin": "https://www.linkedin.com/in/shikhar-dwivedi-953ab385",
+   "message": "Hi \u2014 I applied for the  role at Razorpay recently. My background is 11 years in fintech growth \u2014 Groww $36M, Axis Bank \u20b91500Cr, Niro. Resume attached. Would love to learn more.",
+   "resume": "Subhajit_Das_Growth_Digital_Business.pdf",
+   "wave": "D5",
+   "status": "AUTO"
+  },
+  {
+   "name": "Sriram Ganesan",
+   "company": "M2P Fintech",
+   "linkedin": "",
+   "message": "Hi \u2014 I applied for the  role at M2P Fintech recently. My background is 11 years in fintech growth \u2014 Groww $36M, Axis Bank \u20b91500Cr, Niro. Resume attached. Would love to learn more.",
+   "resume": "Subhajit_Das_Growth_Digital_Business.pdf",
+   "wave": "D5",
+   "status": "AUTO"
+  },
+  {
+   "name": "Saurav Ajmani",
+   "company": "coindcx",
+   "linkedin": "",
+   "message": "Hi \u2014 I applied for the  role at coindcx recently. My background is 11 years in fintech growth \u2014 Groww $36M, Axis Bank \u20b91500Cr, Niro. Resume attached. Would love to learn more.",
+   "resume": "Subhajit_Das_Growth_Digital_Business.pdf",
+   "wave": "D6",
+   "status": "AUTO"
+  },
+  {
+   "name": "Rajamurugan Siva",
+   "company": "kreditbee",
+   "linkedin": "",
+   "message": "Hi \u2014 I applied for the  role at kreditbee recently. My background is 11 years in fintech growth \u2014 Groww $36M, Axis Bank \u20b91500Cr, Niro. Resume attached. Would love to learn more.",
+   "resume": "Subhajit_Das_Growth_Digital_Business.pdf",
+   "wave": "D6",
+   "status": "AUTO"
+  },
+  {
+   "name": "Tanvi Lal",
+   "company": "appsforbharat",
+   "linkedin": "",
+   "message": "Hi \u2014 I applied for the  role at appsforbharat recently. My background is 11 years in fintech growth \u2014 Groww $36M, Axis Bank \u20b91500Cr, Niro. Resume attached. Would love to learn more.",
+   "resume": "Subhajit_Das_Growth_Digital_Business.pdf",
+   "wave": "D6",
+   "status": "AUTO"
+  },
+  {
+   "name": "Natashia Pillai",
+   "company": "airwallex",
+   "linkedin": "",
+   "message": "Hi \u2014 I applied for the  role at airwallex recently. My background is 11 years in fintech growth \u2014 Groww $36M, Axis Bank \u20b91500Cr, Niro. Resume attached. Would love to learn more.",
+   "resume": "Subhajit_Das_Growth_Digital_Business.pdf",
+   "wave": "D6",
+   "status": "AUTO"
+  },
+  {
+   "name": "Usha Murthy",
+   "company": "okta",
+   "linkedin": "",
+   "message": "Hi \u2014 I applied for the  role at okta recently. My background is 11 years in fintech growth \u2014 Groww $36M, Axis Bank \u20b91500Cr, Niro. Resume attached. Would love to learn more.",
+   "resume": "Subhajit_Das_Growth_Digital_Business.pdf",
+   "wave": "D6",
+   "status": "AUTO"
+  },
+  {
+   "name": "Paroma Chatterjee",
+   "company": "revolut",
+   "linkedin": "",
+   "message": "Hi \u2014 I applied for the  role at revolut recently. My background is 11 years in fintech growth \u2014 Groww $36M, Axis Bank \u20b91500Cr, Niro. Resume attached. Would love to learn more.",
+   "resume": "Subhajit_Das_Growth_Digital_Business.pdf",
+   "wave": "D7",
+   "status": "AUTO"
+  },
+  {
+   "name": "Rajat Gaur",
+   "company": "Jio Financial Services",
+   "linkedin": "https://www.linkedin.com/in/rajatgaur",
+   "message": "Hi \u2014 I applied for the  role at Jio Financial Services recently. My background is 11 years in fintech growth \u2014 Groww $36M, Axis Bank \u20b91500Cr, Niro. Resume attached. Would love to learn more.",
+   "resume": "Subhajit_Das_Growth_Marketing_MarTech.pdf",
+   "wave": "D7",
+   "status": "AUTO"
+  },
+  {
+   "name": "Gaurav Sharma",
+   "company": "Standard Chartered",
+   "linkedin": "https://www.linkedin.com/in/gaurav-sharma-4339522b",
+   "message": "Hi \u2014 I applied for the  role at Standard Chartered recently. My background is 11 years in fintech growth \u2014 Groww $36M, Axis Bank \u20b91500Cr, Niro. Resume attached. Would love to learn more.",
+   "resume": "Subhajit_Das_Growth_Marketing_MarTech.pdf",
+   "wave": "D7",
+   "status": "AUTO"
+  },
+  {
+   "name": "Ritura Biswas",
+   "company": "FinBox",
+   "linkedin": "https://www.linkedin.com/in/ritura-biswas-296a9760",
+   "message": "Hi \u2014 I applied for the  role at FinBox recently. My background is 11 years in fintech growth \u2014 Groww $36M, Axis Bank \u20b91500Cr, Niro. Resume attached. Would love to learn more.",
+   "resume": "Subhajit_Das_Growth_Digital_Business.pdf",
+   "wave": "D7",
+   "status": "AUTO"
+  },
+  {
+   "name": "Jaspal Singh",
+   "company": "Bajaj Finserv",
+   "linkedin": "https://www.linkedin.com/in/jaspal-singh-921854a",
+   "message": "Hi \u2014 I applied for the  role at Bajaj Finserv recently. My background is 11 years in fintech growth \u2014 Groww $36M, Axis Bank \u20b91500Cr, Niro. Resume attached. Would love to learn more.",
+   "resume": "Subhajit_Das_Growth_Digital_Business.pdf",
+   "wave": "D7",
+   "status": "AUTO"
+  }
+ ],
+ "gap_messages": [
+  {
+   "name": "Himanshu Gu***a",
+   "title": "Global Product & GTM Strategy Head",
+   "company": "Pine Labs",
+   "linkedin_handle_hints": "Himanshu",
+   "message": "Hi \u2014 I applied for the Director - Business Marketing role at Pine Labs recently. My background is Groww $36M, Axis \u20b91500Cr, Niro \u20b970Cr/mo. Resume attached. Would love to learn more.",
+   "resume": "Subhajit_Das_AI_GTM_Growth_Systems.pdf",
+   "type": "B",
+   "confidence": "HIGH",
+   "applied": "2026-10-12"
+  },
+  {
+   "name": "Harsh Do***i",
+   "title": "Manager - GTM",
+   "company": "Pepper Content",
+   "linkedin_handle_hints": "Harsh",
+   "message": "Hi \u2014 I applied for the Head of GTM (US) - Mumbai role at Pepper Content recently. My background is 11 years in fintech growth \u2014 Groww $36M, Axis Bank \u20b91500Cr, Niro. Resume attached. Would love to learn more.",
+   "resume": "Subhajit_Das_AI_GTM_Growth_Systems.pdf",
+   "type": "B",
+   "confidence": "HIGH",
+   "applied": "2026-10-12"
+  },
+  {
+   "name": "Jeetain Ra***a",
+   "title": "Director Sales & GTM",
+   "company": "BDO India",
+   "linkedin_handle_hints": "Jeetain",
+   "message": "Hi \u2014 I applied for the Director Demand Generation role at BDO India recently. My background is 11 years in fintech growth \u2014 Groww $36M, Axis Bank \u20b91500Cr, Niro. Resume attached. Would love to learn more.",
+   "resume": "Subhajit_Das_AI_GTM_Growth_Systems.pdf",
+   "type": "B",
+   "confidence": "HIGH",
+   "applied": "2026-10-12"
+  },
+  {
+   "name": "Kanchan Be***i",
+   "title": "Head of Marketing, India",
+   "company": "Stripe",
+   "linkedin_handle_hints": "Kanchan",
+   "message": "Hi \u2014 I applied for the Marketing Operations Manager role at Stripe recently. My background is 11 years in fintech \u2014 Groww $5M\u2192$36M, Axis Bank \u20b91500Cr, Niro \u20b970Cr/mo. Resume attached. Would love to learn more.",
+   "resume": "Subhajit_Das_AI_GTM_Growth_Systems.pdf",
+   "type": "B",
+   "confidence": "HIGH",
+   "applied": "2026-10-11"
+  },
+  {
+   "name": "Khyati Ka***r",
+   "title": "General Manager - GTM Strategy Lead",
+   "company": "Paytm",
+   "linkedin_handle_hints": "Khyati",
+   "message": "Hi \u2014 I applied for the multiple GCC roles (see JIDs) role at Paytm recently. My background is Fintech growth \u2014 Groww, Axis Bank, Niro. Resume attached. Would love to learn more.",
+   "resume": "Subhajit_Das_AI_GTM_Growth_Systems.pdf",
+   "type": "B",
+   "confidence": "HIGH",
+   "applied": "2026-10-10"
+  },
+  {
+   "name": "Ayushi Gu***a",
+   "title": "Senior Manager - Growth, Marketing & Sales",
+   "company": "McKinsey",
+   "linkedin_handle_hints": "Ayushi",
+   "message": "Hi \u2014 I applied for the Growth Marketing Manager role at McKinsey recently. My background is 11 years in fintech growth \u2014 Groww $36M, Axis Bank \u20b91500Cr, Niro. Resume attached. Would love to learn more.",
+   "resume": "Subhajit_Das_AI_GTM_Growth_Systems.pdf",
+   "type": "B",
+   "confidence": "HIGH",
+   "applied": "2026-10-08"
+  },
+  {
+   "name": "Divyanshu T",
+   "title": "Project Lead, GTM Strategy",
+   "company": "Bain",
+   "linkedin_handle_hints": "Divyanshu",
+   "message": "Hi \u2014 I applied for the Growth Marketing Manager role at Bain recently. My background is 11 years in fintech growth \u2014 Groww $36M, Axis Bank \u20b91500Cr, Niro. Resume attached. Would love to learn more.",
+   "resume": "Subhajit_Das_AI_GTM_Growth_Systems.pdf",
+   "type": "B",
+   "confidence": "HIGH",
+   "applied": "2026-10-08"
+  },
+  {
+   "name": "Rohit Ta***r",
+   "title": "Sales Excellence, Sales Transformation & GTM Leader",
+   "company": "Siemens",
+   "linkedin_handle_hints": "Rohit",
+   "message": "Hi \u2014 I applied for the Marketing Manager role at Siemens recently. My background is 11 years in fintech growth \u2014 Groww $36M, Axis Bank \u20b91500Cr, Niro. Resume attached. Would love to learn more.",
+   "resume": "Subhajit_Das_AI_GTM_Growth_Systems.pdf",
+   "type": "B",
+   "confidence": "HIGH",
+   "applied": "2026-10-08"
+  },
+  {
+   "name": "Pallavi Sh***a",
+   "title": "Head of Sales Excellence and Go-to-Market : ISC Zone HS",
+   "company": "Philips",
+   "linkedin_handle_hints": "Pallavi",
+   "message": "Hi \u2014 I applied for the Marketing Manager role at Philips recently. My background is 11 years in fintech growth \u2014 Groww $36M, Axis Bank \u20b91500Cr, Niro. Resume attached. Would love to learn more.",
+   "resume": "Subhajit_Das_AI_GTM_Growth_Systems.pdf",
+   "type": "B",
+   "confidence": "HIGH",
+   "applied": "2026-10-08"
+  },
+  {
+   "name": "Krishna Rao",
+   "title": "Communications Manager",
+   "company": "Bosch",
+   "linkedin_handle_hints": "Krishna",
+   "message": "Hi \u2014 I applied for the Marketing Manager role at Bosch recently. My background is 11 years in fintech growth \u2014 Groww $36M, Axis Bank \u20b91500Cr, Niro. Resume attached. Would love to learn more.",
+   "resume": "Subhajit_Das_AI_GTM_Growth_Systems.pdf",
+   "type": "B",
+   "confidence": "HIGH",
+   "applied": "2026-10-08"
+  },
+  {
+   "name": "Ninnad Sh***i",
+   "title": "Manager - Marketing Communications & Brand",
+   "company": "Globant",
+   "linkedin_handle_hints": "Ninnad",
+   "message": "Hi \u2014 I applied for the Growth Marketing Manager role at Globant recently. My background is 11 years in fintech growth \u2014 Groww $36M, Axis Bank \u20b91500Cr, Niro. Resume attached. Would love to learn more.",
+   "resume": "Subhajit_Das_AI_GTM_Growth_Systems.pdf",
+   "type": "B",
+   "confidence": "HIGH",
+   "applied": "2026-10-08"
+  },
+  {
+   "name": "Amanpreet Si***h",
+   "title": "Senior Unified Communications Engineer",
+   "company": "Emerson",
+   "linkedin_handle_hints": "Amanpreet",
+   "message": "Hi \u2014 I applied for the Growth Marketing Manager role at Emerson recently. My background is 11 years in fintech growth \u2014 Groww $36M, Axis Bank \u20b91500Cr, Niro. Resume attached. Would love to learn more.",
+   "resume": "Subhajit_Das_AI_GTM_Growth_Systems.pdf",
+   "type": "B",
+   "confidence": "HIGH",
+   "applied": "2026-10-08"
+  },
+  {
+   "name": "Rahul Raj",
+   "title": "Senior Consultant: Growth",
+   "company": "Walmart",
+   "linkedin_handle_hints": "Rahul",
+   "message": "Hi \u2014 I applied for the Marketing Manager role at Walmart recently. My background is 11 years in fintech growth \u2014 Groww $36M, Axis Bank \u20b91500Cr, Niro. Resume attached. Would love to learn more.",
+   "resume": "Subhajit_Das_AI_GTM_Growth_Systems.pdf",
+   "type": "B",
+   "confidence": "HIGH",
+   "applied": "2026-10-08"
+  },
+  {
+   "name": "Pradeep Ya***v",
+   "title": "Senior Sales Operations Analyst - GTM Strategy & Operations",
+   "company": "Uber",
+   "linkedin_handle_hints": "Pradeep",
+   "message": "Hi \u2014 I applied for the Marketing Manager role at Uber recently. My background is 11 years in fintech growth \u2014 Groww $36M, Axis Bank \u20b91500Cr, Niro. Resume attached. Would love to learn more.",
+   "resume": "Subhajit_Das_AI_GTM_Growth_Systems.pdf",
+   "type": "B",
+   "confidence": "HIGH",
+   "applied": "2026-10-08"
+  },
+  {
+   "name": "Zakeer Hu***n",
+   "title": "Senior Sales Growth",
+   "company": "Magicpin",
+   "linkedin_handle_hints": "Zakeer",
+   "message": "Hi \u2014 I applied for the Creative Director - Marketing role at Magicpin recently. My background is 11 years in fintech growth \u2014 Groww $36M, Axis Bank \u20b91500Cr, Niro. Resume attached. Would love to learn more.",
+   "resume": "Subhajit_Das_Growth_Marketing_MarTech.pdf",
+   "type": "B",
+   "confidence": "HIGH",
+   "applied": "2026-10-05"
+  },
+  {
+   "name": "Saikat Gh***h",
+   "title": "Director, Global Commercial GTM Strategy & Planning",
+   "company": "NetApp",
+   "linkedin_handle_hints": "Saikat",
+   "message": "Hi \u2014 I applied for the Director - Technical Marketing role at NetApp recently. My background is 11 years in fintech growth \u2014 Groww $36M, Axis Bank \u20b91500Cr, Niro. Resume attached. Would love to learn more.",
+   "resume": "Subhajit_Das_AI_GTM_Growth_Systems.pdf",
+   "type": "B",
+   "confidence": "HIGH",
+   "applied": "2026-10-05"
+  },
+  {
+   "name": "Poppy As***y",
+   "title": "Head of GTM",
+   "company": "Deliveroo",
+   "linkedin_handle_hints": "Poppy",
+   "message": "Hi \u2014 I applied for the Global Head of CRM (L6) role at Deliveroo recently. My background is 11 years in fintech growth \u2014 Groww $36M, Axis Bank \u20b91500Cr, Niro. Resume attached. Would love to learn more.",
+   "resume": "Subhajit_Das_AI_GTM_Growth_Systems.pdf",
+   "type": "B",
+   "confidence": "HIGH",
+   "applied": "2026-10-03"
+  },
+  {
+   "name": "Riya Ma***r",
+   "title": "Group Head - Influencer Marketing and Growth",
+   "company": "Social Beat",
+   "linkedin_handle_hints": "Riya",
+   "message": "Hi \u2014 I applied for the Director Of Influencer Marketing role at Social Beat recently. My background is 11 years in fintech growth \u2014 Groww $36M, Axis Bank \u20b91500Cr, Niro. Resume attached. Would love to learn more.",
+   "resume": "Subhajit_Das_Growth_Marketing_MarTech.pdf",
+   "type": "B",
+   "confidence": "HIGH",
+   "applied": "2026-10-02"
+  },
+  {
+   "name": "Shivang Ka***i",
+   "title": "Marketing Manager",
+   "company": "Simbian AI",
+   "linkedin_handle_hints": "Shivang",
+   "message": "Hi \u2014 I applied for the Director - Product Marketing role at Simbian AI recently. My background is 11 years in fintech growth \u2014 Groww $36M, Axis Bank \u20b91500Cr, Niro. Resume attached. Would love to learn more.",
+   "resume": "Subhajit_Das_AI_GTM_Growth_Systems.pdf",
+   "type": "B",
+   "confidence": "HIGH",
+   "applied": "2026-10-02"
+  },
+  {
+   "name": "Deepthi Ga***h",
+   "title": "Head - Growth Program, Brand Intelligence",
+   "company": "bigbasket",
+   "linkedin_handle_hints": "Deepthi",
+   "message": "Hi \u2014 I applied for the VP - Brand (Brand Head) role at bigbasket recently. My background is Groww $36M, Axis \u20b91500Cr, Niro \u20b970Cr/mo \u2014 consumer growth. Resume attached. Would love to learn more.",
+   "resume": "Subhajit_Das_AI_GTM_Growth_Systems.pdf",
+   "type": "B",
+   "confidence": "HIGH",
+   "applied": "2026-10-01"
+  },
+  {
+   "name": "Ritesh Me***a",
+   "title": "VP \u00b7 Bd & Gtm",
+   "company": "Capgemini",
+   "linkedin_handle_hints": "Ritesh",
+   "message": "Hi \u2014 I applied for the Brand, Marketing & Digital  Lead role at Capgemini recently. My background is 11 years in fintech growth \u2014 Groww $36M, Axis Bank \u20b91500Cr, Niro. Resume attached. Would love to learn more.",
+   "resume": "Subhajit_Das_AI_GTM_Growth_Systems.pdf",
+   "type": "B",
+   "confidence": "HIGH",
+   "applied": "2026-10-01"
+  },
+  {
+   "name": "Sai Kr***a",
+   "title": "Growth Marketing Manager",
+   "company": "Delhivery",
+   "linkedin_handle_hints": "Sai",
+   "message": "Hi \u2014 I applied for the multiple GCC roles (see JIDs) role at Delhivery recently. My background is 11 years in fintech growth \u2014 Groww $36M, Axis Bank \u20b91500Cr, Niro. Resume attached. Would love to learn more.",
+   "resume": "Subhajit_Das_AI_GTM_Growth_Systems.pdf",
+   "type": "B",
+   "confidence": "HIGH",
+   "applied": "2026-09-03"
+  },
+  {
+   "name": "Akshay Ga***g",
+   "title": "Growth Marketing Lead - India",
+   "company": "Airbnb",
+   "linkedin_handle_hints": "Akshay",
+   "message": "Hi \u2014 I applied for the Growth Marketing Manager role at Airbnb recently. My background is Consumer growth at scale \u2014 8x credit book, \u20b91500Cr portfolio. Resume attached. Would love to learn more.",
+   "resume": "Subhajit_Das_AI_GTM_Growth_Systems.pdf",
+   "type": "B",
+   "confidence": "HIGH",
+   "applied": "2026-10-08"
+  },
+  {
+   "name": "Kriti Bh***e",
+   "title": "Head of Performance Marketing and Growth",
+   "company": "Traya Health",
+   "linkedin_handle_hints": "Kriti",
+   "message": "Hi \u2014 I applied for the YouTube Growth Head role at Traya Health recently. My background is 11 years in fintech growth \u2014 Groww $36M, Axis Bank \u20b91500Cr, Niro. Resume attached. Would love to learn more.",
+   "resume": "Subhajit_Das_AI_GTM_Growth_Systems.pdf",
+   "type": "B",
+   "confidence": "HIGH",
+   "applied": "2026-10-06"
+  },
+  {
+   "name": "Sanika Ja***n",
+   "title": "Associate Director Brand",
+   "company": "Fraganote",
+   "linkedin_handle_hints": "Sanika",
+   "message": "Hi \u2014 I applied for the Business & Growth Head role at Fraganote recently. My background is 11 years in fintech growth \u2014 Groww $36M, Axis Bank \u20b91500Cr, Niro. Resume attached. Would love to learn more.",
+   "resume": "Subhajit_Das_AI_GTM_Growth_Systems.pdf",
+   "type": "B",
+   "confidence": "HIGH",
+   "applied": "2026-10-06"
+  },
+  {
+   "name": "Gaurav Sam",
+   "title": "Vice President - Growth - Anacity",
+   "company": "ANAROCK",
+   "linkedin_handle_hints": "Gaurav",
+   "message": "Hi \u2014 I applied for the Senior Vice President/Business Head - Growth & Business Developme role at ANAROCK recently. My background is 11 years in fintech growth \u2014 Groww $36M, Axis Bank \u20b91500Cr, Niro. Resume attached. Would love to learn more.",
+   "resume": "Subhajit_Das_AI_GTM_Growth_Systems.pdf",
+   "type": "B",
+   "confidence": "HIGH",
+   "applied": "2026-10-05"
+  },
+  {
+   "name": "Ratna Se***l",
+   "title": "Head of Demand Generation and GTM",
+   "company": "Nimbus Space",
+   "linkedin_handle_hints": "Ratna",
+   "message": "Hi \u2014 I applied for the Marketing Co Founder Cmo role at Nimbus Space recently. My background is 11 years in fintech growth \u2014 Groww $36M, Axis Bank \u20b91500Cr, Niro. Resume attached. Would love to learn more.",
+   "resume": "Subhajit_Das_AI_GTM_Growth_Systems.pdf",
+   "type": "B",
+   "confidence": "HIGH",
+   "applied": "2026-10-02"
+  },
+  {
+   "name": "Ankit Bh***j",
+   "title": "Global Head - GTM & Demand Generation",
+   "company": "Pixelo Digital",
+   "linkedin_handle_hints": "Ankit",
+   "message": "Hi \u2014 I applied for the Senior Manager - Growth (B2B GTM) role at Pixelo Digital recently. My background is 11 years in fintech growth \u2014 Groww $36M, Axis Bank \u20b91500Cr, Niro. Resume attached. Would love to learn more.",
+   "resume": "Subhajit_Das_AI_GTM_Growth_Systems.pdf",
+   "type": "B",
+   "confidence": "HIGH",
+   "applied": "2026-10-06"
+  },
+  {
+   "name": "Ankit Bh***j",
+   "title": "Global Head - GTM & Demand Generation",
+   "company": "Hypergrowth",
+   "linkedin_handle_hints": "Ankit",
+   "message": "Hi \u2014 I applied for the Growth Performance Lead \u2014 AI, Story, Experimentation, Scale role at Hypergrowth recently. My background is 11 years in fintech growth \u2014 Groww $36M, Axis Bank \u20b91500Cr, Niro. Resume attached. Would love to learn more.",
+   "resume": "Subhajit_Das_AI_GTM_Growth_Systems.pdf",
+   "type": "B",
+   "confidence": "HIGH",
+   "applied": "2026-09-03"
+  },
+  {
+   "name": "Cherry Ya***u",
+   "title": "Head of Growth",
+   "company": "Oliv AI",
+   "linkedin_handle_hints": "Cherry",
+   "message": "Hi \u2014 I applied for the Growth Engineer role at Oliv AI recently. My background is 11 years in fintech growth \u2014 Groww $36M, Axis Bank \u20b91500Cr, Niro. Resume attached. Would love to learn more.",
+   "resume": "Subhajit_Das_AI_GTM_Growth_Systems.pdf",
+   "type": "B",
+   "confidence": "HIGH",
+   "applied": "2026-09-03"
+  },
+  {
+   "name": "Rucha De***h",
+   "title": "Senior Associate Brand Marketing",
+   "company": "Meesho",
+   "linkedin_handle_hints": "Rucha",
+   "message": "Hi \u2014 I applied for the Manager - GTM & Sales Strategy, Meesho AI Services (MAS) role at Meesho recently. My background is 11 years in fintech growth \u2014 Groww $36M, Axis Bank \u20b91500Cr, Niro. Resume attached. Would love to learn more.",
+   "resume": "Subhajit_Das_AI_GTM_Growth_Systems.pdf",
+   "type": "B",
+   "confidence": "HIGH",
+   "applied": "2026-10-12"
+  },
+  {
+   "name": "Sam Das",
+   "title": "Director of Engineering - Growth, Data & AI",
+   "company": "Twilio",
+   "linkedin_handle_hints": "Sam",
+   "message": "Hi \u2014 I applied for the Marketing Strategy and Analytics Manager role at Twilio recently. My background is 11 years in fintech growth \u2014 Groww $36M, Axis Bank \u20b91500Cr, Niro. Resume attached. Would love to learn more.",
+   "resume": "Subhajit_Das_AI_GTM_Growth_Systems.pdf",
+   "type": "B",
+   "confidence": "HIGH",
+   "applied": "2026-10-12"
+  },
+  {
+   "name": "Pranav Ra***i",
+   "title": "Founding GTM - India & MENA ( Account Director )",
+   "company": "ElevenLabs",
+   "linkedin_handle_hints": "Pranav",
+   "message": "Hi \u2014 I applied for the B2B Marketing Lead - India role at ElevenLabs recently. My background is Fintech growth: Groww, Axis Bank, Niro \u2014 consumer credit at scale. Resume attached. Would love to learn more.",
+   "resume": "Subhajit_Das_AI_GTM_Growth_Systems.pdf",
+   "type": "B",
+   "confidence": "HIGH",
+   "applied": "2026-10-05"
+  },
+  {
+   "name": "Ankit Bh***j",
+   "title": "Global Head - GTM & Demand Generation",
+   "company": "Intuitive.ai",
+   "linkedin_handle_hints": "Ankit",
+   "message": "Hi \u2014 I applied for the Partner Marketing Manager role at Intuitive.ai recently. My background is 11 years in fintech growth \u2014 Groww $36M, Axis Bank \u20b91500Cr, Niro. Resume attached. Would love to learn more.",
+   "resume": "Subhajit_Das_AI_GTM_Growth_Systems.pdf",
+   "type": "B",
+   "confidence": "HIGH",
+   "applied": "2026-10-02"
+  },
+  {
+   "name": "Sanchit Gu***a",
+   "title": "AVP Marketing | Head of Demand Generation",
+   "company": "SquadStack",
+   "linkedin_handle_hints": "Sanchit",
+   "message": "Hi \u2014 I applied for the a role role at SquadStack recently. My background is 11 years in fintech growth \u2014 Groww $36M, Axis Bank \u20b91500Cr, Niro. Resume attached. Would love to learn more.",
+   "resume": "Subhajit_Das_AI_GTM_Growth_Systems.pdf",
+   "type": "B",
+   "confidence": "HIGH",
+   "applied": ""
+  },
+  {
+   "name": "Radhika Me***n",
+   "title": "Marketing Communications Manager",
+   "company": "Aurigo",
+   "linkedin_handle_hints": "Radhika",
+   "message": "Hi \u2014 I applied for the a role role at Aurigo recently. My background is 11 years in fintech growth \u2014 Groww $36M, Axis Bank \u20b91500Cr, Niro. Resume attached. Would love to learn more.",
+   "resume": "Subhajit_Das_AI_GTM_Growth_Systems.pdf",
+   "type": "B",
+   "confidence": "HIGH",
+   "applied": ""
+  },
+  {
+   "name": "Sarith Na***r",
+   "title": "Head of Marketing",
+   "company": "Aster DM Healthcare",
+   "linkedin_handle_hints": "Sarith",
+   "message": "Hi \u2014 I applied for the a role role at Aster DM Healthcare recently. My background is 11 years in fintech growth \u2014 Groww $36M, Axis Bank \u20b91500Cr, Niro. Resume attached. Would love to learn more.",
+   "resume": "Subhajit_Das_AI_GTM_Growth_Systems.pdf",
+   "type": "B",
+   "confidence": "HIGH",
+   "applied": ""
+  },
+  {
+   "name": "Romil Ku***a",
+   "title": "Head \u2013 Offline Growth & Partnerships",
+   "company": "Flipspaces",
+   "linkedin_handle_hints": "Romil",
+   "message": "Hi \u2014 I applied for the a role role at Flipspaces recently. My background is 11 years in fintech growth \u2014 Groww $36M, Axis Bank \u20b91500Cr, Niro. Resume attached. Would love to learn more.",
+   "resume": "Subhajit_Das_AI_GTM_Growth_Systems.pdf",
+   "type": "B",
+   "confidence": "HIGH",
+   "applied": ""
+  },
+  {
+   "name": "Abhishek Na***k",
+   "title": "GTM & Growth Marketing Manager",
+   "company": "Amazon",
+   "linkedin_handle_hints": "Abhishek",
+   "message": "Hi \u2014 I applied for the multiple GCC roles (see JIDs) role at Amazon recently. My background is 11 years in fintech growth \u2014 Groww, Axis Bank, Niro. Resume attached. Would love to learn more.",
+   "resume": "Subhajit_Das_AI_GTM_Growth_Systems.pdf",
+   "type": "B",
+   "confidence": "MED",
+   "applied": "2026-10-10"
+  },
+  {
+   "name": "Nidhi Ch***y",
+   "title": "Director, Marketing, Brand and Communications",
+   "company": "Deloitte",
+   "linkedin_handle_hints": "Nidhi",
+   "message": "Hi \u2014 I applied for the Growth Marketing Manager role at Deloitte recently. My background is 11 years in fintech growth \u2014 Groww $36M, Axis Bank \u20b91500Cr, Niro. Resume attached. Would love to learn more.",
+   "resume": "Subhajit_Das_AI_GTM_Growth_Systems.pdf",
+   "type": "B",
+   "confidence": "MED",
+   "applied": "2026-10-08"
+  },
+  {
+   "name": "Geeta Ve***a",
+   "title": "Director -Talent Acquisition",
+   "company": "KPMG",
+   "linkedin_handle_hints": "Geeta",
+   "message": "Hi \u2014 I applied for the Growth Marketing Manager role at KPMG recently. My background is 11 years in fintech growth \u2014 Groww $36M, Axis Bank \u20b91500Cr, Niro. Resume attached. Would love to learn more.",
+   "resume": "Subhajit_Das_AI_GTM_Growth_Systems.pdf",
+   "type": "A",
+   "confidence": "MED",
+   "applied": "2026-10-08"
+  },
+  {
+   "name": "Swapna Sa***t",
+   "title": "Lead Talent Acquisition",
+   "company": "Schneider Electric",
+   "linkedin_handle_hints": "Swapna",
+   "message": "Hi \u2014 I applied for the Marketing Manager role at Schneider Electric recently. My background is 11 years in fintech growth \u2014 Groww $36M, Axis Bank \u20b91500Cr, Niro. Resume attached. Would love to learn more.",
+   "resume": "Subhajit_Das_AI_GTM_Growth_Systems.pdf",
+   "type": "A",
+   "confidence": "MED",
+   "applied": "2026-10-08"
+  },
+  {
+   "name": "Srishti Sh***a",
+   "title": "Marketing Director",
+   "company": "XTEN-AV",
+   "linkedin_handle_hints": "Srishti",
+   "message": "Hi \u2014 I applied for the Director - Marketing & Growth role at XTEN-AV recently. My background is 11 years in fintech growth \u2014 Groww $36M, Axis Bank \u20b91500Cr, Niro. Resume attached. Would love to learn more.",
+   "resume": "Subhajit_Das_AI_GTM_Growth_Systems.pdf",
+   "type": "B",
+   "confidence": "MED",
+   "applied": "2026-10-05"
+  },
+  {
+   "name": "Jestin To***y",
+   "title": "Marketing Manager",
+   "company": "impact.com",
+   "linkedin_handle_hints": "Jestin",
+   "message": "Hi \u2014 I applied for the Senior Product Marketing Manager role at impact.com recently. My background is 11 years in fintech growth \u2014 Groww $36M, Axis Bank \u20b91500Cr, Niro. Resume attached. Would love to learn more.",
+   "resume": "Subhajit_Das_AI_GTM_Growth_Systems.pdf",
+   "type": "B",
+   "confidence": "MED",
+   "applied": "2026-10-04"
+  },
+  {
+   "name": "Swati Si***h",
+   "title": "Talent Acquisition Leader",
+   "company": "Tide",
+   "linkedin_handle_hints": "Swati",
+   "message": "Hi \u2014 I applied for the Head - Growth role at Tide recently. My background is Fintech growth \u2014 Groww 8x, Niro \u20b970Cr/mo. Resume attached. Would love to learn more.",
+   "resume": "Subhajit_Das_AI_GTM_Growth_Systems.pdf",
+   "type": "A",
+   "confidence": "MED",
+   "applied": "2026-10-03"
+  },
+  {
+   "name": "Ankit Ka***l",
+   "title": "Director, WW AWS GTM Programs",
+   "company": "MongoDB",
+   "linkedin_handle_hints": "Ankit",
+   "message": "Hi \u2014 I applied for the Senior Manager, Revenue Marketing role at MongoDB recently. My background is 11 years in fintech growth \u2014 Groww $36M, Axis Bank \u20b91500Cr, Niro. Resume attached. Would love to learn more.",
+   "resume": "Subhajit_Das_AI_GTM_Growth_Systems.pdf",
+   "type": "B",
+   "confidence": "MED",
+   "applied": "2026-10-03"
+  },
+  {
+   "name": "Anurag Sh***a",
+   "title": "Marketing Manager",
+   "company": "Adyen",
+   "linkedin_handle_hints": "Anurag",
+   "message": "Hi \u2014 I applied for the Digital Marketing Lead, APAC role at Adyen recently. My background is 11 years in fintech growth \u2014 Groww $36M, Axis Bank \u20b91500Cr, Niro. Resume attached. Would love to learn more.",
+   "resume": "Subhajit_Das_AI_GTM_Growth_Systems.pdf",
+   "type": "B",
+   "confidence": "MED",
+   "applied": "2026-10-03"
+  },
+  {
+   "name": "Thilak Rao",
+   "title": "Head of Talent Acquisition",
+   "company": "Kotak Mahindra Bank",
+   "linkedin_handle_hints": "Thilak",
+   "message": "Hi \u2014 I applied for the Lead Marketing Nri Services Forex role at Kotak Mahindra Bank recently. My background is 11 years in fintech growth \u2014 Groww $36M, Axis Bank \u20b91500Cr, Niro. Resume attached. Would love to learn more.",
+   "resume": "Subhajit_Das_Growth_Digital_Business.pdf",
+   "type": "A",
+   "confidence": "MED",
+   "applied": "2026-10-02"
+  },
+  {
+   "name": "Pavan Ku***r",
+   "title": "Marketing Manager",
+   "company": "Brickwork Ratings",
+   "linkedin_handle_hints": "Pavan",
+   "message": "Hi \u2014 I applied for the Sales and Marketing Head role at Brickwork Ratings recently. My background is 11 years in fintech growth \u2014 Groww $36M, Axis Bank \u20b91500Cr, Niro. Resume attached. Would love to learn more.",
+   "resume": "Subhajit_Das_AI_GTM_Growth_Systems.pdf",
+   "type": "B",
+   "confidence": "MED",
+   "applied": "2026-10-01"
+  },
+  {
+   "name": "Magesh Ja***n",
+   "title": "Talent Acquisition Manager",
+   "company": "DBS Bank",
+   "linkedin_handle_hints": "Magesh",
+   "message": "Hi \u2014 I applied for the multiple GCC roles (see JIDs) role at DBS Bank recently. My background is 11 years in fintech growth \u2014 Groww $36M, Axis Bank \u20b91500Cr, Niro. Resume attached. Would love to learn more.",
+   "resume": "Subhajit_Das_AI_GTM_Growth_Systems.pdf",
+   "type": "A",
+   "confidence": "MED",
+   "applied": "2026-09-30"
+  },
+  {
+   "name": "Namrata An***d",
+   "title": "Performance Marketing Manager",
+   "company": "Miduty",
+   "linkedin_handle_hints": "Namrata",
+   "message": "Hi \u2014 I applied for the Category Growth Head role at Miduty recently. My background is 11 years in fintech growth \u2014 Groww $36M, Axis Bank \u20b91500Cr, Niro. Resume attached. Would love to learn more.",
+   "resume": "Subhajit_Das_AI_GTM_Growth_Systems.pdf",
+   "type": "B",
+   "confidence": "MED",
+   "applied": "2026-10-06"
+  },
+  {
+   "name": "Devanand Ch***n",
+   "title": "Director, Global Talent Acquisition",
+   "company": "Genzeon",
+   "linkedin_handle_hints": "Devanand",
+   "message": "Hi \u2014 I applied for the Head of Marketing role at Genzeon recently. My background is 11 years in fintech growth \u2014 Groww $36M, Axis Bank \u20b91500Cr, Niro. Resume attached. Would love to learn more.",
+   "resume": "Subhajit_Das_AI_GTM_Growth_Systems.pdf",
+   "type": "A",
+   "confidence": "MED",
+   "applied": "2026-10-12"
+  },
+  {
+   "name": "Gokul Sh***r",
+   "title": "Director Sales & Marketing South Asia",
+   "company": "Xpedeon",
+   "linkedin_handle_hints": "Gokul",
+   "message": "Hi \u2014 I applied for the Head of Marketing role at Xpedeon recently. My background is 11 years in fintech growth \u2014 Groww $36M, Axis Bank \u20b91500Cr, Niro. Resume attached. Would love to learn more.",
+   "resume": "Subhajit_Das_AI_GTM_Growth_Systems.pdf",
+   "type": "B",
+   "confidence": "MED",
+   "applied": "2026-10-12"
+  },
+  {
+   "name": "Mohamed Ib***m",
+   "title": "Manager - Digital Marketing",
+   "company": "Maven Silicon",
+   "linkedin_handle_hints": "Mohamed",
+   "message": "Hi \u2014 I applied for the Director - Marketing role at Maven Silicon recently. My background is 11 years in fintech growth \u2014 Groww $36M, Axis Bank \u20b91500Cr, Niro. Resume attached. Would love to learn more.",
+   "resume": "Subhajit_Das_AI_GTM_Growth_Systems.pdf",
+   "type": "B",
+   "confidence": "MED",
+   "applied": "2026-10-12"
+  },
+  {
+   "name": "Neel Sa***i",
+   "title": "Marketing Manager",
+   "company": "Dolphy",
+   "linkedin_handle_hints": "Neel",
+   "message": "Hi \u2014 I applied for the Growth Marketing Lead role at Dolphy recently. My background is 11 years in fintech growth \u2014 Groww $36M, Axis Bank \u20b91500Cr, Niro. Resume attached. Would love to learn more.",
+   "resume": "Subhajit_Das_AI_GTM_Growth_Systems.pdf",
+   "type": "B",
+   "confidence": "MED",
+   "applied": "2026-10-12"
+  },
+  {
+   "name": "Mansi Ar***a",
+   "title": "Enterprise Sales & GTM Director",
+   "company": "HCLTech",
+   "linkedin_handle_hints": "Mansi",
+   "message": "Hi \u2014 I applied for the AI Force - Group Manager, Product Marketing role at HCLTech recently. My background is 11 years in fintech growth \u2014 Groww $36M, Axis Bank \u20b91500Cr, Niro. Resume attached. Would love to learn more.",
+   "resume": "Subhajit_Das_AI_GTM_Growth_Systems.pdf",
+   "type": "B",
+   "confidence": "MED",
+   "applied": "2026-10-06"
+  },
+  {
+   "name": "Deepti Mi***a",
+   "title": "Director of Product Marketing",
+   "company": "Cyware",
+   "linkedin_handle_hints": "Deepti",
+   "message": "Hi \u2014 I applied for the Senior Product Marketing Manager role at Cyware recently. My background is 11 years in fintech growth \u2014 Groww $36M, Axis Bank \u20b91500Cr, Niro. Resume attached. Would love to learn more.",
+   "resume": "Subhajit_Das_AI_GTM_Growth_Systems.pdf",
+   "type": "B",
+   "confidence": "MED",
+   "applied": "2026-10-06"
+  },
+  {
+   "name": "Clement Se***a",
+   "title": "Head of Talent Acquisition",
+   "company": "Optum (UnitedHealth)",
+   "linkedin_handle_hints": "Clement",
+   "message": "Hi \u2014 I applied for the Director Portfolio Mktg + 4 queued role at Optum (UnitedHealth) recently. My background is 11 years in fintech \u2014 Groww, Axis Bank, Niro. Resume attached. Would love to learn more.",
+   "resume": "Subhajit_Das_AI_GTM_Growth_Systems.pdf",
+   "type": "A",
+   "confidence": "MED",
+   "applied": ""
+  },
+  {
+   "name": "Akash Gu***a",
+   "title": "Marketing Director",
+   "company": "Vested Finance",
+   "linkedin_handle_hints": "Akash",
+   "message": "Hi \u2014 I applied for the Sr Mgr Organic Growth role at Vested Finance recently. My background is 11 years in fintech growth \u2014 Groww $36M, Axis Bank \u20b91500Cr, Niro. Resume attached. Would love to learn more.",
+   "resume": "Subhajit_Das_AI_GTM_Growth_Systems.pdf",
+   "type": "B",
+   "confidence": "MED",
+   "applied": ""
+  },
+  {
+   "name": "Vikram Si***h",
+   "title": "Senior Manager- Growth Marketing",
+   "company": "OnMobile",
+   "linkedin_handle_hints": "Vikram",
+   "message": "Hi \u2014 I applied for the a role role at OnMobile recently. My background is 11 years in fintech growth \u2014 Groww $36M, Axis Bank \u20b91500Cr, Niro. Resume attached. Would love to learn more.",
+   "resume": "Subhajit_Das_AI_GTM_Growth_Systems.pdf",
+   "type": "B",
+   "confidence": "MED",
+   "applied": ""
+  }
+ ]
+}

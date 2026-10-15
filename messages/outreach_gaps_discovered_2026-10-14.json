@@ -1,0 +1,1795 @@
+{
+ "fampay": {
+  "company": "FamPay (FamApp)",
+  "typeA": [],
+  "typeB": [],
+  "already_contacted_firstname": null
+ },
+ "coinw": {
+  "company": "CoinW",
+  "typeA": [],
+  "typeB": [],
+  "already_contacted_firstname": null
+ },
+ "pinelabs": {
+  "company": "Pine Labs",
+  "typeA": [
+   {
+    "name": "Srijit Mu***y",
+    "title": "Director Talent Acquisition",
+    "org": "Pine Labs"
+   },
+   {
+    "name": "Rupandra Ga***m",
+    "title": "Deputy Manager Talent Acquisition",
+    "org": "Pine Labs"
+   },
+   {
+    "name": "Shalini Ma***a",
+    "title": "Senior Talent Acquisition Specialist",
+    "org": "Pine Labs"
+   }
+  ],
+  "typeB": [
+   {
+    "name": "Himanshu Gu***a",
+    "title": "Global Product & GTM Strategy Head",
+    "org": "Pine Labs"
+   },
+   {
+    "name": "Pallovi Roy",
+    "title": "GTM Head-Building Credit and Offer Engine",
+    "org": "Pine Labs"
+   },
+   {
+    "name": "Rupak Kh***a",
+    "title": "Business Leader | 23+ Years in Fintech, Payments & GTM Strategy |",
+    "org": "Pine Labs"
+   }
+  ],
+  "already_contacted_firstname": null
+ },
+ "peppercontent": {
+  "company": "Pepper Content",
+  "typeA": [
+   {
+    "name": "Vasudha Sh***a",
+    "title": "Talent Acquisition Manager",
+    "org": "Pepper"
+   },
+   {
+    "name": "Sushmita Gi***i",
+    "title": "Supply Talent Acquisition Manager",
+    "org": "Pepper"
+   },
+   {
+    "name": "Saparya Ch***y",
+    "title": "Assistant Manager - Creative Talent Acquisition",
+    "org": "Pepper"
+   }
+  ],
+  "typeB": [
+   {
+    "name": "Harsh Do***i",
+    "title": "Manager - GTM",
+    "org": "Pepper"
+   },
+   {
+    "name": "Pranay Ba***a",
+    "title": "Growth Marketing Manager",
+    "org": "Pepper"
+   },
+   {
+    "name": "Sanchit Ar***a",
+    "title": "Marketing and Growth Lead",
+    "org": "Pepper"
+   },
+   {
+    "name": "Karthik Na***r",
+    "title": "Growth Lead",
+    "org": "Pepper"
+   }
+  ],
+  "already_contacted_firstname": null
+ },
+ "curately": {
+  "company": "Curately AI",
+  "typeA": [],
+  "typeB": [],
+  "already_contacted_firstname": null
+ },
+ "squadstack": {
+  "company": "SquadStack",
+  "typeA": [
+   {
+    "name": "Eram Qu***a",
+    "title": "Head of People",
+    "org": "SquadStack.ai"
+   },
+   {
+    "name": "Sushmita Mi***a",
+    "title": "People & Culture Leader",
+    "org": "SquadStack.ai"
+   },
+   {
+    "name": "Namita Te***i",
+    "title": "People Operations Manager",
+    "org": "SquadStack.ai"
+   }
+  ],
+  "typeB": [
+   {
+    "name": "Sanchit Gu***a",
+    "title": "AVP Marketing | Head of Demand Generation",
+    "org": "SquadStack.ai"
+   },
+   {
+    "name": "Anil Me***i",
+    "title": "SVP Sales & Head of GTM",
+    "org": "SquadStack.ai"
+   },
+   {
+    "name": "Jayant Da***a",
+    "title": "Senior Growth Manager",
+    "org": "SquadStack.ai"
+   }
+  ],
+  "already_contacted_firstname": null
+ },
+ "bdo": {
+  "company": "BDO India",
+  "typeA": [
+   {
+    "name": "Ashwin Kh***a",
+    "title": "Talent Acquisition Lead",
+    "org": "BDO India"
+   },
+   {
+    "name": "Abishai Pe***r",
+    "title": "Talent Acquisition Manager",
+    "org": "BDO India"
+   },
+   {
+    "name": "Supriya Sh***r",
+    "title": "Talent Acquisition Manager",
+    "org": "BDO India"
+   }
+  ],
+  "typeB": [
+   {
+    "name": "Jeetain Ra***a",
+    "title": "Director Sales & GTM",
+    "org": "BDO India"
+   },
+   {
+    "name": "Zenia Ds***a",
+    "title": "Manager / Brand, Marketing and Communications",
+    "org": "BDO India"
+   },
+   {
+    "name": "Rahul Mh***e",
+    "title": "Manager \u2013 Brand, Marketing & Communications",
+    "org": "BDO India"
+   },
+   {
+    "name": "Vighnesh Vi***n",
+    "title": "Assistant Manager GTM (Go to Markets) Team",
+    "org": "BDO India"
+   }
+  ],
+  "already_contacted_firstname": null
+ },
+ "stripe": {
+  "company": "Stripe",
+  "typeA": [
+   {
+    "name": "Rohit Pa***r",
+    "title": "Talent Acquisition Lead",
+    "org": "Stripe"
+   },
+   {
+    "name": "Suman Ka***u",
+    "title": "Global People Operations Manager",
+    "org": "Stripe"
+   }
+  ],
+  "typeB": [
+   {
+    "name": "Kanchan Be***i",
+    "title": "Head of Marketing, India",
+    "org": "Stripe"
+   },
+   {
+    "name": "Vamsee An***a",
+    "title": "Performance Marketing Manager",
+    "org": "Stripe"
+   },
+   {
+    "name": "Bright Pr***r",
+    "title": "Performance Marketing Manager",
+    "org": "Stripe"
+   },
+   {
+    "name": "Priya Gu***a",
+    "title": "Digital Marketing Manager",
+    "org": "Stripe"
+   }
+  ],
+  "already_contacted_firstname": null
+ },
+ "amazon": {
+  "company": "Amazon",
+  "typeA": [],
+  "typeB": [
+   {
+    "name": "Abhishek Na***k",
+    "title": "GTM & Growth Marketing Manager",
+    "org": "Amazon"
+   },
+   {
+    "name": "Deepesh Sh***a",
+    "title": "Product Marketing GTM Leader",
+    "org": "Amazon"
+   },
+   {
+    "name": "Vishesh Ga***i",
+    "title": "Commercial and GTM Leader",
+    "org": "Amazon"
+   },
+   {
+    "name": "Sai Bh***m",
+    "title": "Sr. GTM Specialist",
+    "org": "Amazon"
+   }
+  ],
+  "already_contacted_firstname": null
+ },
+ "paytm": {
+  "company": "Paytm",
+  "typeA": [
+   {
+    "name": "Seema Ka***a",
+    "title": "Talent Acquisition Lead",
+    "org": "Paytm"
+   },
+   {
+    "name": "Ritika Ve***a",
+    "title": "Talent Acquisition Manager",
+    "org": "Paytm"
+   },
+   {
+    "name": "Neha Si***h",
+    "title": "Talent Acquisition Manager",
+    "org": "Paytm"
+   }
+  ],
+  "typeB": [
+   {
+    "name": "Khyati Ka***r",
+    "title": "General Manager - GTM Strategy Lead",
+    "org": "Paytm"
+   },
+   {
+    "name": "Syed At***b",
+    "title": "General Manager \u2013 Enterprise Sales & GTM | Paytm Intelligence",
+    "org": "Paytm"
+   }
+  ],
+  "already_contacted_firstname": null
+ },
+ "optum": {
+  "company": "Optum (UnitedHealth)",
+  "typeA": [
+   {
+    "name": "Clement Se***a",
+    "title": "Head of Talent Acquisition",
+    "org": "Optum"
+   },
+   {
+    "name": "Nisha Ga***g",
+    "title": "Talent Acquisition-Manager",
+    "org": "Optum"
+   },
+   {
+    "name": "Nikita Ve***a",
+    "title": "Talent Acquisition Manager",
+    "org": "Optum"
+   }
+  ],
+  "typeB": [],
+  "already_contacted_firstname": null
+ },
+ "vitalize": {
+  "company": "Vitalize Care (YC)",
+  "typeA": [],
+  "typeB": [],
+  "already_contacted_firstname": null
+ },
+ "deloitte": {
+  "company": "Deloitte",
+  "typeA": [],
+  "typeB": [
+   {
+    "name": "Nidhi Ch***y",
+    "title": "Director, Marketing, Brand and Communications",
+    "org": "Deloitte"
+   },
+   {
+    "name": "Joshua Ja***l",
+    "title": "Assistant Manager, Go-To-Market (GTM) Strategy & Planning",
+    "org": "Deloitte"
+   },
+   {
+    "name": "Sneha Ah***a",
+    "title": "Manager - Marketing, Brand and Communications",
+    "org": "Deloitte"
+   },
+   {
+    "name": "Rebecca D'***a",
+    "title": "Manager - Marketing, Brand and Communications",
+    "org": "Deloitte"
+   }
+  ],
+  "already_contacted_firstname": null
+ },
+ "kpmg": {
+  "company": "KPMG",
+  "typeA": [
+   {
+    "name": "Geeta Ve***a",
+    "title": "Director -Talent Acquisition",
+    "org": "KPMG"
+   },
+   {
+    "name": "Saikat Ha***r",
+    "title": "Director Talent Acquisition",
+    "org": "KPMG"
+   },
+   {
+    "name": "Parul As***r",
+    "title": "Director Talent Acquisition",
+    "org": "KPMG"
+   }
+  ],
+  "typeB": [],
+  "already_contacted_firstname": null
+ },
+ "mckinsey": {
+  "company": "McKinsey",
+  "typeA": [
+   {
+    "name": "Harmeet Ka***r",
+    "title": "Talent Acquisition Lead",
+    "org": "McKinsey & Company"
+   },
+   {
+    "name": "Lavanya Kr***a",
+    "title": "Senior Talent Acquisition Professional",
+    "org": "McKinsey & Company"
+   },
+   {
+    "name": "Aditi Ku***r",
+    "title": "Senior Recruiter",
+    "org": "McKinsey & Company"
+   }
+  ],
+  "typeB": [
+   {
+    "name": "Ayushi Gu***a",
+    "title": "Senior Manager - Growth, Marketing & Sales",
+    "org": "McKinsey & Company"
+   },
+   {
+    "name": "Jyotsna A",
+    "title": "Senior Implementation Facilitator - Growth, Marketing & Sales",
+    "org": "McKinsey & Company"
+   },
+   {
+    "name": "Sakshi Sh***a",
+    "title": "Senior Analyst, Growth Marketing & Sales Division",
+    "org": "McKinsey & Company"
+   }
+  ],
+  "already_contacted_firstname": null
+ },
+ "bain": {
+  "company": "Bain",
+  "typeA": [
+   {
+    "name": "Harshit Bh***a",
+    "title": "Director Talent Acquisition",
+    "org": "Bain & Company"
+   },
+   {
+    "name": "Preeti Ve***a",
+    "title": "Talent Acquisition Manager",
+    "org": "Bain & Company"
+   },
+   {
+    "name": "Priyanka Pa***a",
+    "title": "Senior Talent Acquisition Specialist",
+    "org": "Bain & Company"
+   }
+  ],
+  "typeB": [
+   {
+    "name": "Divyanshu T",
+    "title": "Project Lead, GTM Strategy",
+    "org": "Bain & Company"
+   },
+   {
+    "name": "Tania Dua",
+    "title": "Manager Go-to-market Commercial Excellence",
+    "org": "Bain & Company"
+   }
+  ],
+  "already_contacted_firstname": null
+ },
+ "siemens": {
+  "company": "Siemens",
+  "typeA": [
+   {
+    "name": "Rajeshwari Kr***y",
+    "title": "Head Talent Acquisition",
+    "org": "Siemens"
+   },
+   {
+    "name": "Roopesh Ma***a",
+    "title": "Talent Acquisition Manager",
+    "org": "Siemens"
+   },
+   {
+    "name": "Anand Ku***r",
+    "title": "Talent Acquisition Manager",
+    "org": "Siemens"
+   }
+  ],
+  "typeB": [
+   {
+    "name": "Rohit Ta***r",
+    "title": "Sales Excellence, Sales Transformation & GTM Leader",
+    "org": "Siemens"
+   }
+  ],
+  "already_contacted_firstname": null
+ },
+ "schneider": {
+  "company": "Schneider Electric",
+  "typeA": [
+   {
+    "name": "Swapna Sa***t",
+    "title": "Lead Talent Acquisition",
+    "org": "Schneider Electric"
+   },
+   {
+    "name": "Surendra Pe***i",
+    "title": "Talent Acquisition Manager",
+    "org": "Schneider Electric"
+   },
+   {
+    "name": "Prachi Ku***a",
+    "title": "Talent Acquisition Leader",
+    "org": "Schneider Electric"
+   }
+  ],
+  "typeB": [],
+  "already_contacted_firstname": null
+ },
+ "philips": {
+  "company": "Philips",
+  "typeA": [
+   {
+    "name": "Vishpala Re***y",
+    "title": "Head People Function, Indian SubContinent & Growth Marketing",
+    "org": "Philips"
+   },
+   {
+    "name": "Vijeesh Vi***n",
+    "title": "Talent Acquisition Leader",
+    "org": "Philips"
+   },
+   {
+    "name": "Rajiv Ma***r",
+    "title": "Manager- Talent Acquisition",
+    "org": "Philips"
+   }
+  ],
+  "typeB": [
+   {
+    "name": "Pallavi Sh***a",
+    "title": "Head of Sales Excellence and Go-to-Market : ISC Zone HS",
+    "org": "Philips"
+   },
+   {
+    "name": "Gargi Ba***u",
+    "title": "Senior Manager - Brand and Communications",
+    "org": "Philips"
+   },
+   {
+    "name": "Rajendra Ga***r",
+    "title": "Manager - Marketing Communications",
+    "org": "Philips"
+   }
+  ],
+  "already_contacted_firstname": null
+ },
+ "bosch": {
+  "company": "Bosch",
+  "typeA": [
+   {
+    "name": "Shaziya Pa***a",
+    "title": "Talent Acquisition Lead",
+    "org": "Bosch"
+   },
+   {
+    "name": "Elamparithi Bh***y",
+    "title": "Associate Manager - Talent Acquisition",
+    "org": "Bosch"
+   },
+   {
+    "name": "Durga Ra***n",
+    "title": "Senior Talent Acquisition Specialist",
+    "org": "Bosch"
+   }
+  ],
+  "typeB": [
+   {
+    "name": "Krishna Rao",
+    "title": "Communications Manager",
+    "org": "Bosch"
+   },
+   {
+    "name": "Gokul S",
+    "title": "Manager - Strategy & Inorganic Growth (JMP)",
+    "org": "Bosch"
+   },
+   {
+    "name": "Prashanth Ku***r",
+    "title": "Marketing Manager",
+    "org": "Bosch"
+   },
+   {
+    "name": "Azam Sh",
+    "title": "Marketing Manager",
+    "org": "Bosch"
+   }
+  ],
+  "already_contacted_firstname": null
+ },
+ "globant": {
+  "company": "Globant",
+  "typeA": [
+   {
+    "name": "Rinku Ra***i",
+    "title": "Regional Director & Head Talent Acquisition - Asia",
+    "org": "Globant"
+   },
+   {
+    "name": "Maithili Ch***y",
+    "title": "Head People Function - APAC",
+    "org": "Globant"
+   },
+   {
+    "name": "Ramesh Y",
+    "title": "Sr Recruiter",
+    "org": "Globant"
+   }
+  ],
+  "typeB": [
+   {
+    "name": "Ninnad Sh***i",
+    "title": "Manager - Marketing Communications & Brand",
+    "org": "Globant"
+   },
+   {
+    "name": "Pritesh Ba***e",
+    "title": "Sr. Digital Marketing Specialist",
+    "org": "Globant"
+   }
+  ],
+  "already_contacted_firstname": null
+ },
+ "emerson": {
+  "company": "Emerson",
+  "typeA": [
+   {
+    "name": "Parmeet Ar***a",
+    "title": "Manager- Talent Acquisition",
+    "org": "Emerson"
+   },
+   {
+    "name": "Harshad Di***e",
+    "title": "Lead Talent Acquisition",
+    "org": "Emerson"
+   },
+   {
+    "name": "Sudiksha Sh***a",
+    "title": "Manager- Talent Acquisition",
+    "org": "Emerson"
+   }
+  ],
+  "typeB": [
+   {
+    "name": "Amanpreet Si***h",
+    "title": "Senior Unified Communications Engineer",
+    "org": "Emerson"
+   }
+  ],
+  "already_contacted_firstname": null
+ },
+ "walmart": {
+  "company": "Walmart",
+  "typeA": [
+   {
+    "name": "Richa Da***r",
+    "title": "Sr. Director People",
+    "org": "Walmart"
+   },
+   {
+    "name": "Ghousiya Sa***a",
+    "title": "Regional Talent Acquisition Manager (International)",
+    "org": "Walmart"
+   },
+   {
+    "name": "Suzanne Ch***n",
+    "title": "Manager People",
+    "org": "Walmart"
+   }
+  ],
+  "typeB": [
+   {
+    "name": "Rahul Raj",
+    "title": "Senior Consultant: Growth",
+    "org": "Walmart"
+   }
+  ],
+  "already_contacted_firstname": null
+ },
+ "uber": {
+  "company": "Uber",
+  "typeA": [
+   {
+    "name": "Sanjay Sa***l",
+    "title": "Talent Acquisition Leader & Investor",
+    "org": "Uber"
+   },
+   {
+    "name": "Srilekha Ga***m",
+    "title": "Senior Talent Acquisition Specialist",
+    "org": "Uber"
+   },
+   {
+    "name": "Soumya Me***a",
+    "title": "APAC University Talent Acquisition Leader",
+    "org": "Uber"
+   }
+  ],
+  "typeB": [
+   {
+    "name": "Pradeep Ya***v",
+    "title": "Senior Sales Operations Analyst - GTM Strategy & Operations",
+    "org": "Uber"
+   }
+  ],
+  "already_contacted_firstname": null
+ },
+ "magicpin": {
+  "company": "Magicpin",
+  "typeA": [
+   {
+    "name": "Ankit Su***a",
+    "title": "People Leader in Startup",
+    "org": "magicpin"
+   }
+  ],
+  "typeB": [
+   {
+    "name": "Zakeer Hu***n",
+    "title": "Senior Sales Growth",
+    "org": "magicpin"
+   },
+   {
+    "name": "Ankit Pa***y",
+    "title": "Manager - Enterprise Growth & Strategy",
+    "org": "magicpin"
+   },
+   {
+    "name": "Kanishka Ma***n",
+    "title": "Marketing Manager",
+    "org": "magicpin"
+   },
+   {
+    "name": "Amarjit Ku***r",
+    "title": "Marketing Team Lead",
+    "org": "magicpin"
+   }
+  ],
+  "already_contacted_firstname": null
+ },
+ "netapp": {
+  "company": "NetApp",
+  "typeA": [
+   {
+    "name": "Ashish Pu***i",
+    "title": "Director - Talent Acquisition for APJI",
+    "org": "NetApp"
+   },
+   {
+    "name": "Nethra Na***j",
+    "title": "Senior Manager, Talent Acquisition",
+    "org": "NetApp"
+   }
+  ],
+  "typeB": [
+   {
+    "name": "Saikat Gh***h",
+    "title": "Director, Global Commercial GTM Strategy & Planning",
+    "org": "NetApp"
+   },
+   {
+    "name": "Shweta Ku***i",
+    "title": "Demand Generation Marketing Manager",
+    "org": "NetApp"
+   },
+   {
+    "name": "Sriram Sa***r",
+    "title": "Enterprise GTM Leader",
+    "org": "NetApp"
+   },
+   {
+    "name": "Abilash Ra***h",
+    "title": "Senior Manager - GTM Operations",
+    "org": "NetApp"
+   }
+  ],
+  "already_contacted_firstname": null
+ },
+ "xtenav": {
+  "company": "XTEN-AV",
+  "typeA": [],
+  "typeB": [
+   {
+    "name": "Srishti Sh***a",
+    "title": "Marketing Director",
+    "org": "XTEN-AV"
+   }
+  ],
+  "already_contacted_firstname": null
+ },
+ "aurigo": {
+  "company": "Aurigo",
+  "typeA": [
+   {
+    "name": "Sheetal De***h",
+    "title": "Senior Talent Acquisition Specialist",
+    "org": "Aurigo Software Technologies"
+   },
+   {
+    "name": "Shubhankar Du***a",
+    "title": "Talent Acquisition Leader (US & India)",
+    "org": "Aurigo Software Technologies"
+   },
+   {
+    "name": "Beena Vi***y",
+    "title": "Manager - People Success(HRBP)",
+    "org": "Aurigo Software Technologies"
+   }
+  ],
+  "typeB": [
+   {
+    "name": "Radhika Me***n",
+    "title": "Marketing Communications Manager",
+    "org": "Aurigo Software Technologies"
+   },
+   {
+    "name": "Neeti Sh***a",
+    "title": "Lead - Marketing Operations",
+    "org": "Aurigo Software Technologies"
+   },
+   {
+    "name": "Tushar Na***e",
+    "title": "Digital Marketing Manager",
+    "org": "Aurigo Software Technologies"
+   },
+   {
+    "name": "Lavanya Va***h",
+    "title": "Senior Associate - Marketing Operations",
+    "org": "Aurigo Software Technologies"
+   }
+  ],
+  "already_contacted_firstname": null
+ },
+ "impact": {
+  "company": "impact.com",
+  "typeA": [],
+  "typeB": [
+   {
+    "name": "Jestin To***y",
+    "title": "Marketing Manager",
+    "org": "impact.com"
+   },
+   {
+    "name": "Sukhwinder Si***h",
+    "title": "Marketing Manager",
+    "org": "impact.com"
+   },
+   {
+    "name": "Rakesh Gu***a",
+    "title": "Vice President Marketing",
+    "org": "impact.com"
+   }
+  ],
+  "already_contacted_firstname": null
+ },
+ "tide": {
+  "company": "Tide",
+  "typeA": [
+   {
+    "name": "Swati Si***h",
+    "title": "Talent Acquisition Leader",
+    "org": "Tide"
+   },
+   {
+    "name": "Riya Ga***g",
+    "title": "Senior Recruiter",
+    "org": "Tide"
+   },
+   {
+    "name": "Daanyal Ka***l",
+    "title": "People Technology Lead",
+    "org": "Tide"
+   }
+  ],
+  "typeB": [],
+  "already_contacted_firstname": null
+ },
+ "mongodb": {
+  "company": "MongoDB",
+  "typeA": [],
+  "typeB": [
+   {
+    "name": "Ankit Ka***l",
+    "title": "Director, WW AWS GTM Programs",
+    "org": "MongoDB"
+   },
+   {
+    "name": "Palak Ka***r",
+    "title": "Senior Associate, GTM Operations",
+    "org": "MongoDB"
+   },
+   {
+    "name": "Gargi Sh***a",
+    "title": "Senior GTM Ops Associate",
+    "org": "MongoDB"
+   },
+   {
+    "name": "Radhika Ar***a",
+    "title": "Senior Associate, GTM Operations",
+    "org": "MongoDB"
+   }
+  ],
+  "already_contacted_firstname": null
+ },
+ "adyen": {
+  "company": "Adyen",
+  "typeA": [],
+  "typeB": [
+   {
+    "name": "Anurag Sh***a",
+    "title": "Marketing Manager",
+    "org": "Adyen"
+   },
+   {
+    "name": "Rupa Mi***l",
+    "title": "Country Marketing Lead",
+    "org": "Adyen"
+   }
+  ],
+  "already_contacted_firstname": null
+ },
+ "deliveroo": {
+  "company": "Deliveroo",
+  "typeA": [
+   {
+    "name": "Selina Ru***r",
+    "title": "Senior Director - Head of Global Talent Acquisition",
+    "org": "Deliveroo"
+   },
+   {
+    "name": "Lindsey Mc***n",
+    "title": "Talent Acquisition Manager",
+    "org": "Deliveroo"
+   }
+  ],
+  "typeB": [
+   {
+    "name": "Poppy As***y",
+    "title": "Head of GTM",
+    "org": "Deliveroo"
+   },
+   {
+    "name": "Daisy An***n",
+    "title": "Head of Commercial Enablement & Go-To-Market",
+    "org": "Deliveroo"
+   },
+   {
+    "name": "Mark Po***n",
+    "title": "Head of Global Operations Strategy & Autonomous Delivery (GTM Strategy & Product Ops Lead)",
+    "org": "Deliveroo"
+   },
+   {
+    "name": "Melissa Vi***y",
+    "title": "GTM Senior Associate",
+    "org": "Deliveroo"
+   }
+  ],
+  "already_contacted_firstname": null
+ },
+ "kotak": {
+  "company": "Kotak Mahindra Bank",
+  "typeA": [
+   {
+    "name": "Thilak Rao",
+    "title": "Head of Talent Acquisition",
+    "org": "Kotak Mahindra Bank"
+   },
+   {
+    "name": "Priyadarshini Pr***n",
+    "title": "Talent Acquisition Manager",
+    "org": "Kotak Mahindra Bank"
+   },
+   {
+    "name": "Mallika Ma***a",
+    "title": "Talent Acquisition Manager",
+    "org": "Kotak Mahindra Bank"
+   }
+  ],
+  "typeB": [],
+  "already_contacted_firstname": null
+ },
+ "socialbeat": {
+  "company": "Social Beat",
+  "typeA": [],
+  "typeB": [
+   {
+    "name": "Riya Ma***r",
+    "title": "Group Head - Influencer Marketing and Growth",
+    "org": "Social Beat"
+   },
+   {
+    "name": "Siddhesh Kh***t",
+    "title": "Group Head- Growth and Client Sucess",
+    "org": "Social Beat"
+   },
+   {
+    "name": "Vijay Gu***a",
+    "title": "Growth Marketing Manager",
+    "org": "Social Beat"
+   },
+   {
+    "name": "Sanoj Ku***r",
+    "title": "Senior Growth Marketing Specialist",
+    "org": "Social Beat"
+   }
+  ],
+  "already_contacted_firstname": null
+ },
+ "simbian": {
+  "company": "Simbian AI",
+  "typeA": [
+   {
+    "name": "Akanksha Sh***n",
+    "title": "Lead - People & Talent",
+    "org": "Simbian"
+   }
+  ],
+  "typeB": [
+   {
+    "name": "Shivang Ka***i",
+    "title": "Marketing Manager",
+    "org": "Simbian"
+   },
+   {
+    "name": "Pavan Sai",
+    "title": "Marketing Manager",
+    "org": "Simbian"
+   }
+  ],
+  "already_contacted_firstname": null
+ },
+ "vested": {
+  "company": "Vested Finance",
+  "typeA": [],
+  "typeB": [
+   {
+    "name": "Akash Gu***a",
+    "title": "Marketing Director",
+    "org": "Vested Finance"
+   }
+  ],
+  "already_contacted_firstname": null
+ },
+ "highlevel": {
+  "company": "HighLevel",
+  "typeA": [],
+  "typeB": [],
+  "already_contacted_firstname": null
+ },
+ "bigbasket": {
+  "company": "bigbasket",
+  "typeA": [
+   {
+    "name": "Sharath Da***i",
+    "title": "Talent Acquisition Head",
+    "org": "bigbasket"
+   },
+   {
+    "name": "Sashi Pa***y",
+    "title": "Head of Talent Acquisition ( Hyderabad Region)",
+    "org": "bigbasket"
+   },
+   {
+    "name": "Swathi Ma***e",
+    "title": "Senior Talent Acquisition",
+    "org": "bigbasket"
+   }
+  ],
+  "typeB": [
+   {
+    "name": "Deepthi Ga***h",
+    "title": "Head - Growth Program, Brand Intelligence",
+    "org": "bigbasket"
+   },
+   {
+    "name": "Arijit Sa***a",
+    "title": "Growth Marketing Lead",
+    "org": "bigbasket"
+   },
+   {
+    "name": "Kinkil An***a",
+    "title": "Deputy Manager Brand Intelligence || Brand Accelerate || Growth Program & Special Initiative",
+    "org": "bigbasket"
+   }
+  ],
+  "already_contacted_firstname": null
+ },
+ "brickwork": {
+  "company": "Brickwork Ratings",
+  "typeA": [],
+  "typeB": [
+   {
+    "name": "Pavan Ku***r",
+    "title": "Marketing Manager",
+    "org": "Brickwork Ratings"
+   },
+   {
+    "name": "Satyaban Be***a",
+    "title": "Senior Marketing Manager",
+    "org": "Brickwork Ratings"
+   },
+   {
+    "name": "Swaroop Re***y",
+    "title": "Senior Digital Marketing Specialist",
+    "org": "Brickwork Ratings"
+   }
+  ],
+  "already_contacted_firstname": null
+ },
+ "asterdm": {
+  "company": "Aster DM Healthcare",
+  "typeA": [
+   {
+    "name": "Shailja",
+    "title": "Senior Executive Talent Acquisition",
+    "org": "Aster DM Healthcare"
+   }
+  ],
+  "typeB": [
+   {
+    "name": "Sarith Na***r",
+    "title": "Head of Marketing",
+    "org": "Aster DM Healthcare"
+   },
+   {
+    "name": "Rajkumar S",
+    "title": "Senior Executive Marketing and Brand Communication",
+    "org": "Aster DM Healthcare"
+   },
+   {
+    "name": "Supreeth Ku***r",
+    "title": "Assistant Manager Marketing Communications and Business Development",
+    "org": "Aster DM Healthcare"
+   },
+   {
+    "name": "Dhwani De***i",
+    "title": "Manager - PR & Internal Communications",
+    "org": "Aster DM Healthcare"
+   }
+  ],
+  "already_contacted_firstname": null
+ },
+ "onmobile": {
+  "company": "OnMobile",
+  "typeA": [],
+  "typeB": [
+   {
+    "name": "Vikram Si***h",
+    "title": "Senior Manager- Growth Marketing",
+    "org": "OnMobile Global Limited"
+   },
+   {
+    "name": "Miloni Sh***h",
+    "title": "Senior Marketing & Communications Manager",
+    "org": "OnMobile Global Limited"
+   },
+   {
+    "name": "Sugandha Ch***a",
+    "title": "Manager - Digital Marketing",
+    "org": "OnMobile Global Limited"
+   },
+   {
+    "name": "Rahul Kh***e",
+    "title": "Senior Manager Digital Marketing",
+    "org": "OnMobile Global Limited"
+   }
+  ],
+  "already_contacted_firstname": null
+ },
+ "capgemini": {
+  "company": "Capgemini",
+  "typeA": [
+   {
+    "name": "Usha S",
+    "title": "Senior Talent Acquisition Recruiter",
+    "org": "Capgemini"
+   }
+  ],
+  "typeB": [
+   {
+    "name": "Ritesh Me***a",
+    "title": "VP \u00b7 Bd & Gtm",
+    "org": "Capgemini"
+   },
+   {
+    "name": "Subhasis Pu***n",
+    "title": "Manager, Go-To-Market",
+    "org": "Capgemini"
+   },
+   {
+    "name": "Abha Si***h",
+    "title": "Senior Marketing & GTM Leader",
+    "org": "Capgemini"
+   },
+   {
+    "name": "Shyamala Go***r",
+    "title": "Senior GTM Consultant",
+    "org": "Capgemini"
+   }
+  ],
+  "already_contacted_firstname": null
+ },
+ "dbs": {
+  "company": "DBS Bank",
+  "typeA": [
+   {
+    "name": "Magesh Ja***n",
+    "title": "Talent Acquisition Manager",
+    "org": "DBS Bank"
+   },
+   {
+    "name": "Shveta Sa***l",
+    "title": "Talent Acquisition Lead",
+    "org": "DBS Bank"
+   },
+   {
+    "name": "Apurva Sh***a",
+    "title": "Senior Associate - Talent Acquisition",
+    "org": "DBS Bank"
+   }
+  ],
+  "typeB": [],
+  "already_contacted_firstname": null
+ },
+ "delhivery": {
+  "company": "Delhivery",
+  "typeA": [
+   {
+    "name": "Esha Mal",
+    "title": "Talent Acquisition Leader",
+    "org": "Delhivery"
+   },
+   {
+    "name": "Akshita Ma***k",
+    "title": "Talent Acquisition Manager",
+    "org": "Delhivery"
+   },
+   {
+    "name": "Chanchala Ug***a",
+    "title": "Manager - Talent Acquisition",
+    "org": "Delhivery"
+   }
+  ],
+  "typeB": [
+   {
+    "name": "Sai Kr***a",
+    "title": "Growth Marketing Manager",
+    "org": "Delhivery"
+   }
+  ],
+  "already_contacted_firstname": null
+ },
+ "airbnb": {
+  "company": "Airbnb",
+  "typeA": [
+   {
+    "name": "Swati Ch***a",
+    "title": "Talent Acquisition Leader",
+    "org": "Airbnb"
+   },
+   {
+    "name": "Nupur Go***l",
+    "title": "Talent Acquisition Leader",
+    "org": "Airbnb"
+   },
+   {
+    "name": "Deepa Pa***y",
+    "title": "Talent Acquisition Leader",
+    "org": "Airbnb"
+   }
+  ],
+  "typeB": [
+   {
+    "name": "Akshay Ga***g",
+    "title": "Growth Marketing Lead - India",
+    "org": "Airbnb"
+   },
+   {
+    "name": "Sahiba Ma***a",
+    "title": "Senior Communications Manager, India",
+    "org": "Airbnb"
+   },
+   {
+    "name": "Daniel Kr***e",
+    "title": "Payments Regional Growth & Development Lead",
+    "org": "Airbnb"
+   }
+  ],
+  "already_contacted_firstname": null
+ },
+ "meesho": {
+  "company": "Meesho",
+  "typeA": [
+   {
+    "name": "Sunny Ku***r",
+    "title": "Senior Talent Acquisition Recruiter",
+    "org": "Meesho"
+   },
+   {
+    "name": "Sharukh Kh***n",
+    "title": "Lead Talent Acquisition",
+    "org": "Meesho"
+   },
+   {
+    "name": "Sapna Re***a",
+    "title": "Talent Acquisition Lead",
+    "org": "Meesho"
+   }
+  ],
+  "typeB": [
+   {
+    "name": "Rucha De***h",
+    "title": "Senior Associate Brand Marketing",
+    "org": "Meesho"
+   }
+  ],
+  "already_contacted_firstname": null
+ },
+ "twilio": {
+  "company": "Twilio",
+  "typeA": [
+   {
+    "name": "Milton Da***d",
+    "title": "Manager, Talent Acquisition - R&D | GTM | G&A, Asia Pacific",
+    "org": "Twilio"
+   },
+   {
+    "name": "Manu Ab***m",
+    "title": "Senior People Operations Specialist",
+    "org": "Twilio"
+   },
+   {
+    "name": "Margie Lam",
+    "title": "Senior Technical Recruiter",
+    "org": "Twilio"
+   }
+  ],
+  "typeB": [
+   {
+    "name": "Sam Das",
+    "title": "Director of Engineering - Growth, Data & AI",
+    "org": "Twilio"
+   },
+   {
+    "name": "Revanth Ra***n",
+    "title": "Marketing Strategy and Analytics Manager",
+    "org": "Twilio"
+   },
+   {
+    "name": "Pooja Ma***k",
+    "title": "Senior Marketing Executive",
+    "org": "Twilio"
+   },
+   {
+    "name": "Vineeth Vi***r",
+    "title": "Staff Technical Program Manager, Data Science & Growth (AI/ML)",
+    "org": "Twilio"
+   }
+  ],
+  "already_contacted_firstname": null
+ },
+ "hcltech": {
+  "company": "HCLTech",
+  "typeA": [],
+  "typeB": [
+   {
+    "name": "Mansi Ar***a",
+    "title": "Enterprise Sales & GTM Director",
+    "org": "HCLTech"
+   },
+   {
+    "name": "Monica Gu***a",
+    "title": "Marketing &amp; GTM Leader",
+    "org": "HCLTech"
+   },
+   {
+    "name": "Gaurav Ku***r",
+    "title": "Strategy & GTM Leader",
+    "org": "HCLTech"
+   },
+   {
+    "name": "Kiran Ra***u",
+    "title": "Global GTM Lead",
+    "org": "HCLTech"
+   }
+  ],
+  "already_contacted_firstname": null
+ },
+ "elevenlabs": {
+  "company": "ElevenLabs",
+  "typeA": [],
+  "typeB": [
+   {
+    "name": "Pranav Ra***i",
+    "title": "Founding GTM - India & MENA ( Account Director )",
+    "org": "ElevenLabs"
+   },
+   {
+    "name": "Karthik Sh***r",
+    "title": "GTM - Account Manager",
+    "org": "ElevenLabs"
+   }
+  ],
+  "already_contacted_firstname": null
+ },
+ "traya": {
+  "company": "Traya Health",
+  "typeA": [],
+  "typeB": [
+   {
+    "name": "Kriti Bh***e",
+    "title": "Head of Performance Marketing and Growth",
+    "org": "Traya"
+   },
+   {
+    "name": "Gloria Pe***a",
+    "title": "Head of Brand",
+    "org": "Traya"
+   },
+   {
+    "name": "Pooja Sh***y",
+    "title": "Brand Head - Male Category",
+    "org": "Traya"
+   },
+   {
+    "name": "Ananya Jo***i",
+    "title": "Sr. Brand Executive (Brand Marketing)",
+    "org": "Traya"
+   }
+  ],
+  "already_contacted_firstname": null
+ },
+ "fraganote": {
+  "company": "Fraganote",
+  "typeA": [
+   {
+    "name": "Prakshi Pa***a",
+    "title": "Assistant Manager - Talent Acquisition",
+    "org": "Fraganote"
+   },
+   {
+    "name": "Aayushi To***k",
+    "title": "Senior Executive Talent Acquisition",
+    "org": "Fraganote"
+   }
+  ],
+  "typeB": [
+   {
+    "name": "Sanika Ja***n",
+    "title": "Associate Director Brand",
+    "org": "Fraganote"
+   },
+   {
+    "name": "Smridhi Ch***a",
+    "title": "Marketing Manager",
+    "org": "Fraganote"
+   },
+   {
+    "name": "Aarya",
+    "title": "Senior Marketing Executive",
+    "org": "Fraganote"
+   }
+  ],
+  "already_contacted_firstname": null
+ },
+ "miduty": {
+  "company": "Miduty",
+  "typeA": [],
+  "typeB": [
+   {
+    "name": "Namrata An***d",
+    "title": "Performance Marketing Manager",
+    "org": "Miduty"
+   }
+  ],
+  "already_contacted_firstname": null
+ },
+ "genzeon": {
+  "company": "Genzeon",
+  "typeA": [
+   {
+    "name": "Devanand Ch***n",
+    "title": "Director, Global Talent Acquisition",
+    "org": "Genzeon"
+   },
+   {
+    "name": "Ravi Un***a",
+    "title": "Associate Director- People & Culture",
+    "org": "Genzeon"
+   },
+   {
+    "name": "Sai Sa***a",
+    "title": "Senior Manager Talent Acquisition",
+    "org": "Genzeon"
+   }
+  ],
+  "typeB": [],
+  "already_contacted_firstname": null
+ },
+ "xpedeon": {
+  "company": "Xpedeon",
+  "typeA": [],
+  "typeB": [
+   {
+    "name": "Gokul Sh***r",
+    "title": "Director Sales & Marketing South Asia",
+    "org": "Xpedeon"
+   },
+   {
+    "name": "Prajakta Ga***d",
+    "title": "Sr. Marketing Content Writer (B2B Saas)",
+    "org": "Xpedeon"
+   }
+  ],
+  "already_contacted_firstname": null
+ },
+ "mavensilicon": {
+  "company": "Maven Silicon",
+  "typeA": [],
+  "typeB": [
+   {
+    "name": "Mohamed Ib***m",
+    "title": "Manager - Digital Marketing",
+    "org": "Maven Silicon"
+   },
+   {
+    "name": "Sheshan R",
+    "title": "Digital Marketing Manager",
+    "org": "Maven Silicon"
+   },
+   {
+    "name": "Anuroop Ko***a",
+    "title": "Senior Manager Direct Marketing",
+    "org": "Maven Silicon"
+   }
+  ],
+  "already_contacted_firstname": null
+ },
+ "flipspaces": {
+  "company": "Flipspaces",
+  "typeA": [
+   {
+    "name": "Venkateswarlu Gu***i",
+    "title": "Talent Acquisition Manager",
+    "org": "Flipspaces"
+   },
+   {
+    "name": "Shivani Ta***a",
+    "title": "Talent Acquisition Manager",
+    "org": "Flipspaces"
+   }
+  ],
+  "typeB": [
+   {
+    "name": "Romil Ku***a",
+    "title": "Head \u2013 Offline Growth & Partnerships",
+    "org": "Flipspaces"
+   },
+   {
+    "name": "Vipul So***i",
+    "title": "Global Head - Growth & Partnerships",
+    "org": "Flipspaces"
+   },
+   {
+    "name": "Neha Si***h",
+    "title": "Global Head of Marketing",
+    "org": "Flipspaces"
+   },
+   {
+    "name": "Aishwarya Ka***n",
+    "title": "Assistant Vice President Marketing & Brand",
+    "org": "Flipspaces"
+   }
+  ],
+  "already_contacted_firstname": null
+ },
+ "anarock": {
+  "company": "ANAROCK",
+  "typeA": [
+   {
+    "name": "Teena Sh***a",
+    "title": "HR Manager-Talent Acquisition",
+    "org": "ANAROCK"
+   },
+   {
+    "name": "Hari Pa***n",
+    "title": "Manager \u2013 HR Business Partnering & Talent Acquisition",
+    "org": "ANAROCK"
+   }
+  ],
+  "typeB": [
+   {
+    "name": "Gaurav Sam",
+    "title": "Vice President - Growth - Anacity",
+    "org": "ANAROCK"
+   },
+   {
+    "name": "Kunal Za***e",
+    "title": "Marketing & Digital Marketing - Manager",
+    "org": "ANAROCK"
+   },
+   {
+    "name": "Pranshu Ku***i",
+    "title": "Associate Product Manager 2 - Growth",
+    "org": "ANAROCK"
+   },
+   {
+    "name": "Mokshi Sh***h",
+    "title": "Marketing Manager",
+    "org": "ANAROCK"
+   }
+  ],
+  "already_contacted_firstname": null
+ },
+ "nimbus": {
+  "company": "Nimbus Space",
+  "typeA": [],
+  "typeB": [
+   {
+    "name": "Ratna Se***l",
+    "title": "Head of Demand Generation and GTM",
+    "org": "HT Media Group"
+   },
+   {
+    "name": "Ankit Bh***j",
+    "title": "Global Head - GTM & Demand Generation",
+    "org": "LatentView Analytics"
+   },
+   {
+    "name": "Omkar Jo***i",
+    "title": "GTM & Demand Generation Leader",
+    "org": "JumpCloud"
+   },
+   {
+    "name": "Sumit Ra***t",
+    "title": "Product Manager: Digital Growth, GTM and Demand Generation",
+    "org": "Jisr | \u062c\u0633\u0631"
+   }
+  ],
+  "already_contacted_firstname": null
+ },
+ "fingerprint": {
+  "company": "Fingerprint",
+  "typeA": [],
+  "typeB": [],
+  "already_contacted_firstname": null
+ },
+ "weekday": {
+  "company": "Weekday (YC)",
+  "typeA": [],
+  "typeB": [],
+  "already_contacted_firstname": null
+ },
+ "cyware": {
+  "company": "Cyware",
+  "typeA": [],
+  "typeB": [
+   {
+    "name": "Deepti Mi***a",
+    "title": "Director of Product Marketing",
+    "org": "Cyware"
+   },
+   {
+    "name": "Apoorva Pr***i",
+    "title": "Marketing Manager",
+    "org": "Cyware"
+   }
+  ],
+  "already_contacted_firstname": null
+ },
+ "fleetio": {
+  "company": "Fleetio",
+  "typeA": [],
+  "typeB": [],
+  "already_contacted_firstname": null
+ },
+ "consensys": {
+  "company": "Consensys",
+  "typeA": [],
+  "typeB": [],
+  "already_contacted_firstname": null
+ },
+ "spenza": {
+  "company": "Spenza",
+  "typeA": [],
+  "typeB": [],
+  "already_contacted_firstname": null
+ },
+ "intuitiveai": {
+  "company": "Intuitive.ai",
+  "typeA": [],
+  "typeB": [
+   {
+    "name": "Ratna Se***l",
+    "title": "Head of Demand Generation and GTM",
+    "org": "HT Media Group"
+   },
+   {
+    "name": "Ankit Bh***j",
+    "title": "Global Head - GTM & Demand Generation",
+    "org": "LatentView Analytics"
+   },
+   {
+    "name": "Omkar Jo***i",
+    "title": "GTM & Demand Generation Leader",
+    "org": "JumpCloud"
+   },
+   {
+    "name": "Sumit Ra***t",
+    "title": "Product Manager: Digital Growth, GTM and Demand Generation",
+    "org": "Jisr | \u062c\u0633\u0631"
+   }
+  ],
+  "already_contacted_firstname": null
+ },
+ "pinnacle": {
+  "company": "Pinnacle Group",
+  "typeA": [],
+  "typeB": [],
+  "already_contacted_firstname": null
+ },
+ "adaptive": {
+  "company": "Adaptive",
+  "typeA": [],
+  "typeB": [],
+  "already_contacted_firstname": null
+ },
+ "dolphy": {
+  "company": "Dolphy",
+  "typeA": [],
+  "typeB": [
+   {
+    "name": "Neel Sa***i",
+    "title": "Marketing Manager",
+    "org": "Dolphy | ContentFeed"
+   }
+  ],
+  "already_contacted_firstname": null
+ },
+ "pixelo": {
+  "company": "Pixelo Digital",
+  "typeA": [],
+  "typeB": [
+   {
+    "name": "Ratna Se***l",
+    "title": "Head of Demand Generation and GTM",
+    "org": "HT Media Group"
+   },
+   {
+    "name": "Ankit Bh***j",
+    "title": "Global Head - GTM & Demand Generation",
+    "org": "LatentView Analytics"
+   },
+   {
+    "name": "Omkar Jo***i",
+    "title": "GTM & Demand Generation Leader",
+    "org": "JumpCloud"
+   },
+   {
+    "name": "Sumit Ra***t",
+    "title": "Product Manager: Digital Growth, GTM and Demand Generation",
+    "org": "Jisr | \u062c\u0633\u0631"
+   }
+  ],
+  "already_contacted_firstname": null
+ },
+ "hypergrowth": {
+  "company": "Hypergrowth",
+  "typeA": [],
+  "typeB": [
+   {
+    "name": "Ratna Se***l",
+    "title": "Head of Demand Generation and GTM",
+    "org": "HT Media Group"
+   },
+   {
+    "name": "Ankit Bh***j",
+    "title": "Global Head - GTM & Demand Generation",
+    "org": "LatentView Analytics"
+   },
+   {
+    "name": "Omkar Jo***i",
+    "title": "GTM & Demand Generation Leader",
+    "org": "JumpCloud"
+   },
+   {
+    "name": "Sumit Ra***t",
+    "title": "Product Manager: Digital Growth, GTM and Demand Generation",
+    "org": "Jisr | \u062c\u0633\u0631"
+   }
+  ],
+  "already_contacted_firstname": null
+ },
+ "olivai": {
+  "company": "Oliv AI",
+  "typeA": [
+   {
+    "name": "Susheel Ja***l",
+    "title": "People & Talent Manager",
+    "org": "Oliv AI"
+   }
+  ],
+  "typeB": [
+   {
+    "name": "Cherry Ya***u",
+    "title": "Head of Growth",
+    "org": "Oliv AI"
+   },
+   {
+    "name": "Madhu Je***a",
+    "title": "Head of Marketing",
+    "org": "Oliv AI"
+   },
+   {
+    "name": "Debarshi Na***k",
+    "title": "Marketing Director",
+    "org": "Oliv AI"
+   },
+   {
+    "name": "Tanvir Si***h",
+    "title": "Senior Product Marketing Manager",
+    "org": "Oliv AI"
+   }
+  ],
+  "already_contacted_firstname": null
+ }
+}
