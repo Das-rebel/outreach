@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+pipeline/clean_state/
+*.tmp
+*.log
+.env
